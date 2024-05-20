@@ -37,7 +37,7 @@ export function Chat() {
             <section className="p-4">
                 <form onSubmit={handleSubmit} className="flex w-full max-w-3xl mx-auto items-center">
                     <Input className="flex-1 min-h-[40px]" placeholder="Type your question here..." type="text" value={input} onChange={handleInputChange} />
-                    <Button className="ml-2" type="submit">
+                    <Button className="ml-2" type="submit" onClick={() => setShowSuggestions(false)}>
                         Submit
                     </Button>
                 </form>
