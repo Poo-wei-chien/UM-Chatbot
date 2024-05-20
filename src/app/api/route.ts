@@ -12,13 +12,13 @@ import { RunnableSequence } from '@langchain/core/runnables'
 import { formatDocumentsAsString } from 'langchain/util/document';
 import { CharacterTextSplitter } from 'langchain/text_splitter';
 
-const loader = new JSONLoader(
-    "src/data/states.json",
-    ["/state", "/code", "/nickname", "/website", "/admission_date", "/admission_number", "/capital_city", "/capital_url", "/population", "/population_rank", "/constitution_url", "/twitter_url"],
-);
+// const loader = new JSONLoader(
+//     "src/data/states.json",
+//     ["/state", "/code", "/nickname", "/website", "/admission_date", "/admission_number", "/capital_city", "/capital_url", "/population", "/population_rank", "/constitution_url", "/twitter_url"],
+// );
 
 // const loader = new JSONLoader(
-//     "src\\data\\states.json"
+//     "src/states.json"
 // );
 
 export const dynamic = 'force-dynamic'
