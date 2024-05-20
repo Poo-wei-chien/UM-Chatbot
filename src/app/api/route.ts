@@ -18,7 +18,7 @@ import { CharacterTextSplitter } from 'langchain/text_splitter';
 // );
 
 const loader = new JSONLoader(
-    "src/states.json"
+    "states.json"
 );
 
 export const dynamic = 'force-dynamic'
