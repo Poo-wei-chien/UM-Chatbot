@@ -17,9 +17,9 @@ import { CharacterTextSplitter } from 'langchain/text_splitter';
 //     ["/state", "/code", "/nickname", "/website", "/admission_date", "/admission_number", "/capital_city", "/capital_url", "/population", "/population_rank", "/constitution_url", "/twitter_url"],
 // );
 
-// const loader = new JSONLoader(
-//     "src/states.json"
-// );
+const loader = new JSONLoader(
+    "src/states.json"
+);
 
 export const dynamic = 'force-dynamic'
 
