@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "builds": [
+        {
+        "src": "src/app/api/route.ts",
+        "use": "@now/node",
+        "config": {
+            "timeout": 300000
+        }
+        }
+    ]
+}
