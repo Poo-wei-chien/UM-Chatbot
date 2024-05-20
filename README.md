@@ -10,4 +10,4 @@ This is UM Chatbot, Harry to answer student inquiries. It uses the OpenAI API to
 - npm run dev
 
 ### Chatbot Home Page
-![Chatbot Home Page](chatbot-home.png)
+![Chatbot Home Page](https://github.com/Poo-wei-chien/UM-Chatbot/blob/main/chatbot_page.png)
