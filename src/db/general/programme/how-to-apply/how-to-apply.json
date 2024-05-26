@@ -1,0 +1,51 @@
+{
+    "bachelors_degree_programmes": {
+        "malaysian": {
+            "application_period": "until 29 March 2024 (Phase 1)",
+            "submission_method": "online",
+            "submission_url": "https://upu.mohe.gov.my",
+            "eligibility": ["STPM", "Matriculation", "STAM", "Diploma or equivalent"],
+            "requirements": [
+                "obtain unique ID number from BSN outlets all over Malaysia"
+            ],
+            "steps": [
+                "Choose Programme(s).",
+                "Submit application online."
+            ],
+            "apply_url": "https://upu.mohe.gov.my"
+        },
+        "open_channel_satu": {
+            "application_period": "until 23 September 2024",
+            "registration_url": "http://maya.um.edu.my",
+            "steps": [
+                "Create an account via http://maya.um.edu.my and create a new application.",
+                "Log in and select 'CONTINUE' under the 'Unsubmitted Application' tab.",
+                "Select 'Citizen' as nationality, 'Universiti Malaya's Open Channel (SATU)' as mode of implementation, and 'Undergraduate: Universiti Malaya's Open Channel (SATU)' as level of study.",
+                "Search for desired program and select.",
+                "Click 'APPLY' to confirm program selection.",
+                "Provide personal particulars and click 'SAVE & CONTINUE'.",
+                "Provide next of kin details and click 'SAVE & CONTINUE'.",
+                "Provide academic qualifications, upload necessary certificates/transcripts, and select an English Level Proficiency test.",
+                "Add up to three additional preferred programs if desired.",
+                "Pay a processing fee of RM300, save the receipt, read and tick the appropriate boxes in the 'Declaration' and 'Disclaimer' sections, and click 'SUBMIT'."
+            ],
+            "apply_url": "http://maya.um.edu.my",
+            "reference": "https://study.um.edu.my/how-to-apply-bachelor-rsquo-s-degree"
+        },
+        "international": {
+            "application_period": "until 30 August 2024",
+            "submission_method": "online",
+            "submission_url": "https://maya.um.edu.my",
+            "steps": [
+                "Choose Programme(s).",
+                "Complete application with personal details and academic qualifications.",
+                "Upload documents (Passport, photo, academic transcript, certificate, etc.).",
+                "Pay the processing fee via Payment Gateway FPX, Debit/Credit Card, Flywire.",
+                "Submit application and receive acknowledgment via email.",
+                "Check application status on the application portal.",
+                "Accept the offer on the application portal."
+            ],
+            "apply_url": "https://maya.um.edu.my"
+        }
+    }
+}

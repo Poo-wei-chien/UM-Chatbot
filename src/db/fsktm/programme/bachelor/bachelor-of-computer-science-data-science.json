@@ -1,0 +1,307 @@
+{
+  "id": "bachelor-of-computer-science-data-science",
+  "programmeName": "Bachelor of Computer Science (Data Science)",
+  "benefits": "-",
+  "careerOpportunities": [
+    "Data Scientist",
+    "Data Analyst",
+    "Machine Learning Engineer",
+    "Data Modeler",
+    "Data Miner",
+    "Webometrician",
+    "Statistician",
+    "Data Engineer",
+    "Academician",
+    "Researcher",
+    "Entrepreneur"
+  ],
+  "courseStructure": {
+    "Semester1": [
+      {
+          "CourseCode": "GIG1012/ GLT1017",
+          "CourseName": "Philosophy and Current Issues (for local student only) / Basic Malay Language (for international student)",
+          "CreditHours": 2
+      },
+      {
+          "CourseCode": "WIX1001",
+          "CourseName": "Computing Mathematics I",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "WIX1002",
+          "CourseName": "Fundamentals of Programming",
+          "CreditHours": 5
+      },
+      {
+          "CourseCode": "WIX1003",
+          "CourseName": "Computer Systems and Organization",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "WIA1001",
+          "CourseName": "Information Systems",
+          "CreditHours": 3
+      }
+    ],
+    "Semester2": [
+      {
+          "CourseCode": "GIG1013",
+          "CourseName": "Appreciation of Ethics and Civilizations",
+          "CreditHours": 2
+      },
+      {
+          "CourseCode": "GIG1004",
+          "CourseName": "Information Literacy",
+          "CreditHours": 2
+      },
+      {
+        "CourseCode": "GIG1005",
+        "CourseName": "Social Engagement",
+        "CreditHours": 2
+      },
+      {
+          "CourseCode": "WIA1002",
+          "CourseName": "Data Structure (#WIX1002)",
+          "CreditHours": 5
+      },
+      {
+          "CourseCode": "WIA1003",
+          "CourseName": "Computer System Architecture",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "WIE2003",
+          "CourseName": "Introduction to Data Science",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "WIA1006",
+          "CourseName": "Machine Learning",
+          "CreditHours": 3
+      }
+    ],
+    "Semester3": [
+      {
+        "CourseCode": "GLTXXXX",
+        "CourseName": "English for Communication (1)",
+        "CreditHours": 3
+      },
+      {
+          "CourseCode": "GIG1003",
+          "CourseName": "Basic Entrepreneurship Culture",
+          "CreditHours": 2
+      },
+      {
+          "CourseCode": "WIX2001",
+          "CourseName": "Thinking and Communication Skills",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "WIX2002",
+          "CourseName": "Project Management",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "WIA2001",
+          "CourseName": "Database",
+          "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIA2002",
+        "CourseName": "Software Modelling",
+        "CreditHours": 3
+      },
+      {
+          "CourseCode": "WIA2003",
+          "CourseName": "Probability and Statistics",
+          "CreditHours": 3
+      }
+    ],
+    "Semester4": [
+      {
+          "CourseCode": "",
+          "CourseName": "Co-Curriculum (1)",
+          "CreditHours": 2
+      },
+      {
+        "CourseCode": "GLTXXXX",
+        "CourseName": "English for Communication (2)",
+        "CreditHours": 3
+      },
+      {
+          "CourseCode": "WIA2004",
+          "CourseName": "Operating Systems",
+          "CreditHours": 4
+      },
+      {
+          "CourseCode": "WIA1005",
+          "CourseName": "Network Technology Foundation",
+          "CreditHours": 4
+      },
+      {
+          "CourseCode": "",
+          "CourseName": "Specialization Elective (1)",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "",
+          "CourseName": "Specialization Elective (2)",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "",
+          "CourseName": "Faculty Elective (1)",
+          "CreditHours": 3
+      }
+    ],
+    "Semester5": [
+      {
+        "CourseCode": "WIH3001",
+        "CourseName": "Data Science Project",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "",
+        "CourseName": "Specialization Elective (3)",
+        "CreditHours": 3
+      },
+    {
+        "CourseCode": "",
+        "CourseName": "Specialization Elective (4)",
+        "CreditHours": 3
+    },
+    {
+        "CourseCode": "",
+        "CourseName": "Specialization Elective (5)",
+        "CreditHours": 3
+    },
+    {
+        "CourseCode": "",
+        "CourseName": "Specialization Elective (6)",
+        "CreditHours": 3
+    },
+    {
+        "CourseCode": "",
+        "CourseName": "Faculty Elective (2)",
+        "CreditHours": 3
+    },
+    {
+        "CourseCode": "",
+        "CourseName": "External Faculty Elective",
+        "CreditHours": 2
+    }
+    ],
+    "Semester6": [
+      {
+        "CourseCode": "WIH3002",
+        "CourseName": "Data Science Industrial Training",
+        "CreditHours": 14
+    }     
+    ],
+    "Semester7": [
+      {
+        "CourseCode": "WIA3001",
+        "CourseName": "Industrial Training",
+        "CreditHours": 12
+      }
+    ],
+    "SpecializationElectiveCourses(Choose only 10 courses)": [
+      {
+        "CourseCode": "WIH2001",
+        "CourseName": "Data Analytics",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WID2001",
+        "CourseName": "Knowledge Representation and Reasoning",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WID2002",
+        "CourseName": "Computing Mathematics II",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WID3001",
+        "CourseName": "Functional and Logic Programming",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WID3002",
+        "CourseName": "Natural Language Processing",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIE3007",
+        "CourseName": "Data Mining and Warehousing",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIE3008",
+        "CourseName": "Business Analytics and Intelligence",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIE3010",
+        "CourseName": "Data Visualization",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIH3003",
+        "CourseName": "Big Data Applications and Analytics",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIH3004",
+        "CourseName": "Trends in Data Science",
+        "CreditHours": 3
+      }
+    ]
+  },  
+  "coursePeriod": "7 semesters",
+  "startDate": "October",
+  "localStudentConventionalTuitionFee": "RM 20,500",
+  "localStudentOpenChannelTuitionFee": "RM 71,000",
+  "internationalStudentTuitionFee": "RM 72,800",
+  "levelOfStudy": "Bachelor",
+  "entryRequirements": {
+    "STPM": [
+      "Pass SPM / equivalent with credit in Bahasa Melayu and Mathematics",
+      "Pass SPM / equivalent with at least 3 credits in any subjects",
+      "Passed STPM with a minimum CGPA of 3.00",
+      "Obtained at least a Grade B at the STPM level in Mathematics (T), Physics, and Chemistry / Biology / Information and Communications Technology (ICT)",
+      "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+      "Achieved at least Level 2 (Band 2) in MUET"
+    ],
+    "Matriculation/Foundation": [
+      "Passed Matriculation/Foundation with a minimum CGPA of 3.00",
+      "Obtained at least a Grade B at the Matriculation/Foundation level in Mathematics, Physics, Engineering Physics, and Engineering Physics / Chemistry / Engineering Chemistry / Biology / Computer Science / Computing",
+      "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+      "Achieved at least Level 2 (Band 2) in MUET"
+    ],
+    "STAM": [ 
+      "Not Offered"
+    ],
+    "DIPLOMA": [
+      "Possess a Diploma in Computer Science or Diploma in Information Technology from a Public University (UA) / other institutions in related fields recognized by the Malaysian Government and approved by the University Senate with a minimum CGPA of 3.00",
+      "Obtained at least a Grade B at the Diploma level in Mathematics",
+      "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+      "Achieved at least Level 2 (Band 2) in MUET",
+      "OR",
+      "Passed STPM in a non-current year with a minimum CGPA of 3.00",
+      "Obtained at least a Grade B at the STPM level in Mathematics (T), Physics, and Chemistry / Biology / Information and Communications Technology (ICT)",
+      "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+      "Achieved at least Level 2 (Band 2) in MUET",
+      "OR",
+      "Passed Matriculation / Foundation in a non-current year with a minimum CGPA of 3.00",
+      "Obtained at least a Grade B at the Matriculation / Foundation level in Mathematics, Physics, Engineering Physics, and Engineering Physics / Chemistry / Engineering Chemistry / Biology / Computer Science / Computing",
+      "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+      "Achieved at least Level 2 (Band 2) in MUET"
+    ],
+    "Other Qualifications": [
+      "Not Offered"
+    ]
+  },  
+  "contacts": "-",
+  "programmeUrl": "https://fsktm.um.edu.my/bachelor-of-computer-science-data-science"
+}

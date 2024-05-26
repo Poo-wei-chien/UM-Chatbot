@@ -1,0 +1,375 @@
+{
+  "id": "bachelor-of-computer-science-computer-system-and-network",
+  "programmeName": "Bachelor of Computer Science (Computer System and Network)",
+  "benefits": "-",
+  "careerOpportunities": [
+    "Network Engineer",
+    "Network Administrator",
+    "System Engineer",
+    "Data Security Officer",
+    "CSI",
+    "Programmer",
+    "Network / Security Consultant",
+    "Academician",
+    "Researcher"
+  ],
+  "courseStructure": {
+    "Semester1": [
+      {
+          "CourseCode": "GIG1012/ GLT1017",
+          "CourseName": "Philosophy and Current Issues (for local student only) / Basic Malay Language (for international student)",
+          "CreditHours": 2
+      },
+      {
+          "CourseCode": "GLTXXXX",
+          "CourseName": "English for Communication (1)",
+          "CreditHours": 2
+      },
+      {
+          "CourseCode": "WIX1001",
+          "CourseName": "Computing Mathematics I",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "WIX1002",
+          "CourseName": "Fundamentals of Programming",
+          "CreditHours": 5
+      },
+      {
+          "CourseCode": "WIX1003",
+          "CourseName": "Computer Systems and Organization",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "WIX2001",
+          "CourseName": "Thinking and Communication Skills",
+          "CreditHours": 3
+      }
+    ],
+    "Semester2": [
+      {
+          "CourseCode": "GIG1013",
+          "CourseName": "Appreciation of Ethics and Civilizations",
+          "CreditHours": 2
+      },
+      {
+          "CourseCode": "GLTXXXX",
+          "CourseName": "English for Communication (2)",
+          "CreditHours": 2
+      },
+      {
+          "CourseCode": "WIA1002",
+          "CourseName": "Data Structure (#WIX1002)",
+          "CreditHours": 5
+      },
+      {
+          "CourseCode": "WIA1003",
+          "CourseName": "Computer System Architecture",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "WIA1005",
+          "CourseName": "Network Technology Foundation",
+          "CreditHours": 4
+      },
+      {
+          "CourseCode": "WIA1006",
+          "CourseName": "Machine Learning",
+          "CreditHours": 3
+      }
+    ],
+    "Semester3": [
+      {
+          "CourseCode": "GIG1003",
+          "CourseName": "Basic Entrepreneurship Culture",
+          "CreditHours": 2
+      },
+      {
+          "CourseCode": "WIX2002",
+          "CourseName": "Project Management",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "WIA2001",
+          "CourseName": "Database",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "WIA2003",
+          "CourseName": "Probability and Statistics",
+          "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIA2006",
+        "CourseName": "System Analysis and Design",
+        "CreditHours": 3
+      },
+      {
+          "CourseCode": "WIA2008",
+          "CourseName": "Advanced Network Technology (#WIA1005)",
+          "CreditHours": 4
+      },
+      {
+          "CourseCode": "WIA2007",
+          "CourseName": "Digital Design and Hardware Description Language (#WIX1003 & #WIA1003)",
+          "CreditHours": 3
+      }
+    ],
+    "Semester4": [
+      {
+          "CourseCode": "",
+          "CourseName": "Co-Curriculum (1)",
+          "CreditHours": 2
+      },
+      {
+          "CourseCode": "WIA2004",
+          "CourseName": "Operating Systems",
+          "CreditHours": 4
+      },
+      {
+          "CourseCode": "WIA2005",
+          "CourseName": "Algorithm Design and Analysis (#WIA1002)",
+          "CreditHours": 4
+      },
+      {
+          "CourseCode": "",
+          "CourseName": "Specialization Elective (1)",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "",
+          "CourseName": "Specialization Elective (2)",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "",
+          "CourseName": "Specialization Elective (3)",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "GQX0056",
+          "CourseName": "KIAR: Integrity and Anti-Corruption",
+          "CreditHours": 2
+      }
+    ],
+    "Semester5": [
+      {
+          "CourseCode": "WIA3001",
+          "CourseName": "Industrial Training",
+          "CreditHours": 12
+      }
+    ],
+    "Semester6": [
+      {
+          "CourseCode": "WIA3002",
+          "CourseName": "Academic Project I",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "",
+          "CourseName": "Specialization Elective (4)",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "",
+          "CourseName": "Specialization Elective (5)",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "",
+          "CourseName": "Specialization Elective (6)",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "",
+          "CourseName": "Specialization Elective (7)",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "",
+          "CourseName": "University Elective (Cluster 1)",
+          "CreditHours": 2
+      },
+      {
+          "CourseCode": "",
+          "CourseName": "University Elective (Cluster 2)",
+          "CreditHours": 2
+      }
+    ],
+    "Semester7": [
+      {
+          "CourseCode": "",
+          "CourseName": "Co-Curriculum (2)",
+          "CreditHours": 2
+      },
+      {
+          "CourseCode": "WIA3003",
+          "CourseName": "Academic Project II (#WIA3002)",
+          "CreditHours": 5
+      },
+      {
+          "CourseCode": "",
+          "CourseName": "Specialization Elective (8)",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "",
+          "CourseName": "Specialization Elective (9)",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "",
+          "CourseName": "Specialization Elective (10)",
+          "CreditHours": 3
+      },
+      {
+          "CourseCode": "",
+          "CourseName": "University Elective (Cluster 3)",
+          "CreditHours": 2
+      }
+    ],
+    "SpecializationElectiveCourses(Choose only 10 courses)": [
+      {
+        "CourseCode": "WIC2002",
+        "CourseName": "Network Security",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIC2004",
+        "CourseName": "Internet Technology",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIC2005",
+        "CourseName": "Programmable Network (#WIA2008)",
+        "CreditHours": 3
+      },  
+      {
+        "CourseCode": "WIC2006",
+        "CourseName": "Digital Forensic",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIC2007",
+        "CourseName": "Cyber Security",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIC2008",
+        "CourseName": "Internet of Things (#WIA1005)",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIC3001",
+        "CourseName": "Mathematics in Networking",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIC3002",
+        "CourseName": "Cryptography",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIC3003",
+        "CourseName": "Embedded System Programming",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIC3004",
+        "CourseName": "Computer Penetration",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIC3005",
+        "CourseName": "Enterprise Network Design and Management (#WIA1005)",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIC3006",
+        "CourseName": "Mobile Computing",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIC3007",
+        "CourseName": "Principles of Distributed System (#WIA1005)",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIC3008",
+        "CourseName": "Microprocessor",
+        "CreditHours": 3
+      },
+      {
+        "CourseCode": "WIC3009",
+        "CourseName": "Parallel Programming",
+        "CreditHours": 3
+      }
+    ]
+  },
+  "coursePeriod": "7 semesters",
+  "startDate": "October",
+  "localStudentConventionalTuitionFee": "RM 10,200",
+  "localStudentOpenChannelTuitionFee": "RM 57,700",
+  "internationalStudentTuitionFee": "RM 73,700",
+  "levelOfStudy": "Bachelor",
+  "entryRequirements": {
+    "STPM": [
+      "Pass SPM / equivalent with credit in Bahasa Melayu and Mathematics",
+      "Pass SPM / equivalent with at least 3 credits in any subjects",
+      "Passed STPM with a minimum CGPA of 3.00",
+      "Obtained at least a Grade B at the STPM level in Mathematics (T), Physics, and Chemistry / Biology / Information and Communications Technology (ICT)",
+      "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+      "Achieved at least Level 2 (Band 2) in MUET"
+    ],
+    "Matriculation/Foundation": [
+      "Passed Matriculation/Foundation with a minimum CGPA of 3.00",
+      "Obtained at least a Grade B at the Matriculation/Foundation level in Mathematics, Physics, Engineering Physics, and Engineering Physics / Chemistry / Engineering Chemistry / Biology / Computer Science / Computing",
+      "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+      "Achieved at least Level 2 (Band 2) in MUET"
+    ],
+    "STAM": [ 
+      "Not Offered"
+    ],
+    "DIPLOMA": [
+      "Possess a Diploma in Computer Science or Diploma in Information Technology from a Public University (UA) / other institutions in related fields recognized by the Malaysian Government and approved by the University Senate with a minimum CGPA of 3.00",
+      "Obtained at least a Grade B at the Diploma level in Mathematics",
+      "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+      "Achieved at least Level 2 (Band 2) in MUET",
+      "OR",
+      "Passed STPM in a non-current year with a minimum CGPA of 3.00",
+      "Obtained at least a Grade B at the STPM level in Mathematics (T), Physics, and Chemistry / Biology / Information and Communications Technology (ICT)",
+      "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+      "Achieved at least Level 2 (Band 2) in MUET",
+      "OR",
+      "Passed Matriculation / Foundation in a non-current year with a minimum CGPA of 3.00",
+      "Obtained at least a Grade B at the Matriculation / Foundation level in Mathematics, Physics, Engineering Physics, and Engineering Physics / Chemistry / Engineering Chemistry / Biology / Computer Science / Computing",
+      "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+      "Achieved at least Level 2 (Band 2) in MUET"
+    ],
+    "Other Qualifications": [
+      "A-LEVEL",
+      "Possess GCE A-Level qualifications with at least a Grade A in Mathematics",
+      "Obtained at least a Grade B in one (1) of the following subjects: Computing, Physics, Further Mathematics, Chemistry, Biology",
+      "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+      "Achieved at least Level 2 (Band 2) in MUET. However, applicants without MUET but with the following results can be considered for conditional admission, provided they meet the MUET requirement within one academic session:",
+      "At least Band 4 (Academic) in IELTS; or",
+      "A score of 437-473 (PBT) / 123-150 (CBT) / 41-52 (IBT) in TOEFL",
+      "INTERNATIONAL BACCALAUREATE (IB) DIPLOMA",
+      "Possess an International Baccalaureate (IB) Diploma with a minimum score of 30 points and a Grade 5 (Higher Level) in Mathematics",
+      "In one (1) of the following subjects: Chemistry, Physics, Computer Science, Biology",
+      "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+      "Achieved at least Level 2 (Band 2) in MUET. However, applicants without MUET but with the following results can be considered for conditional admission, provided they meet the MUET requirement within one academic session:",
+      "At least Band 4 (Academic) in IELTS; or",
+      "A score of 437-473 (PBT) / 123-150 (CBT) / 41-52 (IBT) in TOEFL",
+      "AUSTRALIAN MATRICULATION PROGRAMME (AUSMAT)",
+      "Possess an Australian Matriculation Programme (AUSMAT) qualification with a minimum Australian Tertiary Admission Rank (ATAR) of 80% and a score of 16 (High Achievement) in Mathematics",
+      "A score of 16 (High Achievement) in one (1) of the following subjects: Physics, Chemistry, Mathematics Specialist",
+      "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+      "Achieved at least Level 2 (Band 2) in MUET. However, applicants without MUET but with the following results can be considered for conditional admission, provided they meet the MUET requirement within one academic session:",
+      "At least Band 4 (Academic) in IELTS; or",
+      "A score of 437-473 (PBT) / 123-150 (CBT) / 41-52 (IBT) in TOEFL"
+    ]
+  },  
+  "contacts": "-",
+  "programmeUrl": "https://fsktm.um.edu.my/bachelor-of-computer-science-computer-system-and-network"
+}

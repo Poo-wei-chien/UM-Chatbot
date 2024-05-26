@@ -19,7 +19,7 @@ import path from 'path';
 //     ["/state", "/code", "/nickname", "/website", "/admission_date", "/admission_number", "/capital_city", "/capital_url", "/population", "/population_rank", "/constitution_url", "/twitter_url"],
 // );
 
-let usersPath = path.join(process.cwd(), 'src/data/states.json');
+let usersPath = path.join(process.cwd(), 'src/data/database.json');
 
 const loader = new JSONLoader(
     usersPath

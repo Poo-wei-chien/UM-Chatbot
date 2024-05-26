@@ -1,0 +1,81 @@
+{
+    "title": "SHUTTLE BUS OPERATION SCHEDULE",
+    "department": "JABATAN PEMBANGUNAN & PENYELENGGARAAN HARTA BENDA",
+    "university": "UNIVERSITI MALAYA",
+    "routes": "ROUTE BA",
+    "operating_days": "MONDAY - FRIDAY",
+    "trips": [
+        {"trip": 1, "time": "7.30 AM"},
+        {"trip": 2, "time": "8.00 AM"},
+        {"trip": 3, "time": "8.30 AM"},
+        {"trip": 4, "time": "9.00 AM"},
+        {"trip": 5, "time": "9.30 AM"},
+        {"trip": 6, "time": "10.00 AM"},
+        {"trip": 7, "time": "10.30 AM"},
+        {"trip": 8, "time": "11.00 AM"},
+        {"trip": 9, "time": "11.30 AM"},
+        {"trip": 10, "time": "12.00 PM"},
+        {"trip": 11, "time": "12.30 PM"},
+        {"trip": 12, "time": "1.00 PM"},
+        {"trip": 13, "time": "1.30 PM"},
+        {"trip": 14, "time": "2.00 PM"},
+        {"trip": 15, "time": "2.30 PM"},
+        {"trip": 16, "time": "3.00 PM"},
+        {"trip": 17, "time": "3.30 PM"},
+        {"trip": 18, "time": "4.00 PM"},
+        {"trip": 19, "time": "4.30 PM"},
+        {"trip": 20, "time": "5.10 PM"},
+        {"trip": 21, "time": "5.40 PM"},
+        {"trip": 22, "time": "6.00 PM"},
+        {"trip": 23, "time": "7.00 PM"},
+        {"trip": 24, "time": "8.00 PM"},
+        {"trip": 25, "time": "9.00 PM"},
+        {"trip": 26, "time": "10.00 PM"}
+    ],
+    "stops": [
+        {
+            "stop_name": "UM Central", 
+            "nearby_locations": ["He & She Coffee", "Universiti Malaya Central Library", "Faculty of Arts and Social Sciences", "Faculty of Education", "Faculty of Science", "Kompleks Perdana Siswa (KPS)"]
+        },
+        {
+            "stop_name": "Pusat Asasi Sains", 
+            "nearby_locations": ["Dewan Tunku Canselor"]
+        },
+        {
+            "stop_name": "Dayasari Residential (KK5)", 
+            "nearby_locations": ["Department of Development & Estate Maintenance", "Raja Dr Nazrin Shah Residential (KK12)"]
+        },
+        {
+            "stop_name": "Academy of Islamic Studies", 
+            "nearby_locations": []
+        },
+        {
+            "stop_name": "Tun Ahmad Zaidi Residential （KK10)", 
+            "nearby_locations": ["Kinabalu Residential College / KK8", "Faculty of Computer Science and Information Technology"]
+        },
+        {
+            "stop_name": "Academy of Malay Studies", 
+            "nearby_locations": []
+        },
+        {
+            "stop_name": "Faculty of Engineering", 
+            "nearby_locations": ["Tuanku Bahiyah Residential College (KK2)"]
+        },
+        {
+            "stop_name": "Faculty of Science", "nearby_locations": []
+        },
+        {
+            "stop_name": "UM Central", 
+            "nearby_locations": ["He & She Coffee", "Universiti Malaya Central Library", "Faculty of Arts and Social Sciences", "Faculty of Education", "Faculty of Science", "Kompleks Perdana Siswa (KPS)"]
+        }
+    ],
+    "notes": [
+        "Routes AB & BA will be operating per above-mentioned schedule only.",
+        "The bus does not operate on the following days: Weekend (Saturday & Sunday)",
+        "The bus does not operate during Friday Prayer. Time break starts from 12.30 pm—2.30 pm"
+    ],
+    "contact": {
+        "phone": "03-7967 3311",
+        "email": "kenderaanjpphb@um.edu.my"
+    }
+}

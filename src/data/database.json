@@ -1,0 +1,2635 @@
+[
+    { "Bachelor of Computer Science and Information Technology Programme in FSKTM / FSCIT": [
+        {
+            "id": "bachelor-of-computer-science-artificial-intelligence",
+            "programmeName": "Bachelor of Computer Science (Artificial Intelligence)",
+            "benefits": "-",
+            "careerOpportunities": [
+              "System Engineer",
+              "Knowledge Engineer",
+              "System Analyst",
+              "Programmer",
+              "Game Developer",
+              "Academician",
+              "Researcher"
+            ],
+            "courseStructure": {
+              "Semester1": [
+                {
+                    "CourseCode": "GIG1012/ GLT1017",
+                    "CourseName": "Philosophy and Current Issues (for local student only) / Basic Malay Language (for international student)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "GLTXXXX",
+                    "CourseName": "English for Communication (1)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIX1001",
+                    "CourseName": "Computing Mathematics I",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIX1002",
+                    "CourseName": "Fundamentals of Programming",
+                    "CreditHours": 5
+                },
+                {
+                    "CourseCode": "WIX1003",
+                    "CourseName": "Computer Systems and Organization",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA1007",
+                    "CourseName": "Introduction to Data Science",
+                    "CreditHours": 3
+                }
+              ],
+              "Semester2": [
+                {
+                    "CourseCode": "GIG1013",
+                    "CourseName": "Appreciation of Ethics and Civilizations",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "GLTXXXX",
+                    "CourseName": "English for Communication (2)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIA1002",
+                    "CourseName": "Data Structure (#WIX1002)",
+                    "CreditHours": 5
+                },
+                {
+                    "CourseCode": "WIA1003",
+                    "CourseName": "Computer System Architecture",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA1005",
+                    "CourseName": "Network Technology Foundation",
+                    "CreditHours": 4
+                },
+                {
+                    "CourseCode": "WIA1006",
+                    "CourseName": "Machine Learning",
+                    "CreditHours": 3
+                }
+              ],
+              "Semester3": [
+                {
+                    "CourseCode": "GIG1003",
+                    "CourseName": "Basic Entrepreneurship Culture",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIX2001",
+                    "CourseName": "Thinking and Communication Skills",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIX2002",
+                    "CourseName": "Project Management",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2001",
+                    "CourseName": "Database",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2003",
+                    "CourseName": "Probability and Statistics",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2006",
+                    "CourseName": "System Analysis and Design",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2007",
+                    "CourseName": "Mobile Application Development",
+                    "CreditHours": 4
+                }
+              ],
+              "Semester4": [
+                {
+                    "CourseCode": "",
+                    "CourseName": "Co-Curriculum (1)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIA2004",
+                    "CourseName": "Operating Systems",
+                    "CreditHours": 4
+                },
+                {
+                    "CourseCode": "WIA2005",
+                    "CourseName": "Algorithm Design and Analysis (#WIA1002)",
+                    "CreditHours": 4
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (1)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (2)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (3)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "GQX0056",
+                    "CourseName": "KIAR: Integrity and Anti-Corruption",
+                    "CreditHours": 2
+                }
+              ],
+              "Semester5": [
+                {
+                    "CourseCode": "WIA3001",
+                    "CourseName": "Industrial Training",
+                    "CreditHours": 12
+                }
+              ],
+              "Semester6": [
+                {
+                    "CourseCode": "WIA3002",
+                    "CourseName": "Academic Project I",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (4)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (5)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (6)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (7)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "University Elective (Cluster 1)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "University Elective (Cluster 2)",
+                    "CreditHours": 2
+                }
+              ],
+              "Semester7": [
+                {
+                    "CourseCode": "",
+                    "CourseName": "Co-Curriculum (2)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIA3003",
+                    "CourseName": "Academic Project II (#WIA3002)",
+                    "CreditHours": 5
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (8)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (9)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (10)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "University Elective (Cluster 3)",
+                    "CreditHours": 2
+                }
+              ],
+              "SpecializationElectiveCourses(Choose only 10 courses)": [
+                {
+                    "CourseCode": "WIC2008",
+                    "CourseName": "Internet of Things (#WIA1005)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WID2001",
+                    "CourseName": "Knowledge Representation and Reasoning",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WID2002",
+                    "CourseName": "Computing Mathematics II",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WID2003",
+                    "CourseName": "Cognitive Science",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WID3001",
+                    "CourseName": "Functional and Logic Programming",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WID3002",
+                    "CourseName": "Natural Language Processing",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WID3007",
+                    "CourseName": "Fuzzy Logic (#WIX1001)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WID3010",
+                    "CourseName": "Autonomous Robots",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WID3011",
+                    "CourseName": "Deep Learning",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WID3012",
+                    "CourseName": "Evolutionary Computation",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WID3013",
+                    "CourseName": "Computer Vision and Pattern Recognition",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WID3014",
+                    "CourseName": "Practical Artificial Intelligence",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WID3015",
+                    "CourseName": "Numerical Analysis",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIG3004",
+                    "CourseName": "Virtual Reality",
+                    "CreditHours": 3
+                }
+              ]
+            },
+            "coursePeriod": "7 semesters",
+            "startDate": "October",
+            "localStudentConventionalTuitionFee": "RM 10,200",
+            "localStudentOpenChannelTuitionFee": "RM 57,700",
+            "internationalStudentTuitionFee": "RM 73,700",
+            "levelOfStudy": "Bachelor",
+            "entryRequirements": {
+              "STPM": [
+                "Pass SPM / equivalent with credit in Bahasa Melayu and Mathematics",
+                "Pass SPM / equivalent with at least 3 credits in any subjects",
+                "Passed STPM with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the STPM level in Mathematics (T), Physics, and Chemistry / Biology / Information and Communications Technology (ICT)",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET"
+              ],
+              "Matriculation/Foundation": [
+                "Passed Matriculation/Foundation with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the Matriculation/Foundation level in Mathematics, Physics, Engineering Physics, and Engineering Physics / Chemistry / Engineering Chemistry / Biology / Computer Science / Computing",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET"
+              ],
+              "STAM": [ 
+                "Not Offered"
+              ],
+              "DIPLOMA": [
+                "Possess a Diploma in Computer Science or Diploma in Information Technology from a Public University (UA) / other institutions in related fields recognized by the Malaysian Government and approved by the University Senate with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the Diploma level in Mathematics",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET",
+                "OR",
+                "Passed STPM in a non-current year with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the STPM level in Mathematics (T), Physics, and Chemistry / Biology / Information and Communications Technology (ICT)",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET",
+                "OR",
+                "Passed Matriculation / Foundation in a non-current year with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the Matriculation / Foundation level in Mathematics, Physics, Engineering Physics, and Engineering Physics / Chemistry / Engineering Chemistry / Biology / Computer Science / Computing",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET"
+              ],
+              "Other Qualifications": [
+                "A-LEVEL",
+                "Possess GCE A-Level qualifications with at least a Grade A in Mathematics",
+                "Obtained at least a Grade B in one (1) of the following subjects: Computing, Physics, Further Mathematics, Chemistry, Biology",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET. However, applicants without MUET but with the following results can be considered for conditional admission, provided they meet the MUET requirement within one academic session:",
+                "At least Band 4 (Academic) in IELTS; or",
+                "A score of 437-473 (PBT) / 123-150 (CBT) / 41-52 (IBT) in TOEFL",
+                "INTERNATIONAL BACCALAUREATE (IB) DIPLOMA",
+                "Possess an International Baccalaureate (IB) Diploma with a minimum score of 30 points and a Grade 5 (Higher Level) in Mathematics",
+                "In one (1) of the following subjects: Chemistry, Physics, Computer Science, Biology",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET. However, applicants without MUET but with the following results can be considered for conditional admission, provided they meet the MUET requirement within one academic session:",
+                "At least Band 4 (Academic) in IELTS; or",
+                "A score of 437-473 (PBT) / 123-150 (CBT) / 41-52 (IBT) in TOEFL",
+                "AUSTRALIAN MATRICULATION PROGRAMME (AUSMAT)",
+                "Possess an Australian Matriculation Programme (AUSMAT) qualification with a minimum Australian Tertiary Admission Rank (ATAR) of 80% and a score of 16 (High Achievement) in Mathematics",
+                "A score of 16 (High Achievement) in one (1) of the following subjects: Physics, Chemistry, Mathematics Specialist",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET. However, applicants without MUET but with the following results can be considered for conditional admission, provided they meet the MUET requirement within one academic session:",
+                "At least Band 4 (Academic) in IELTS; or",
+                "A score of 437-473 (PBT) / 123-150 (CBT) / 41-52 (IBT) in TOEFL"
+            ]
+            },
+            "contacts": "-",
+            "programmeUrl": "https://fsktm.um.edu.my/bachelor-of-computer-science-artificial-intelligence"
+          },
+          {
+            "id": "bachelor-of-computer-science-computer-system-and-network",
+            "programmeName": "Bachelor of Computer Science (Computer System and Network)",
+            "benefits": "-",
+            "careerOpportunities": [
+              "Network Engineer",
+              "Network Administrator",
+              "System Engineer",
+              "Data Security Officer",
+              "CSI",
+              "Programmer",
+              "Network / Security Consultant",
+              "Academician",
+              "Researcher"
+            ],
+            "courseStructure": {
+              "Semester1": [
+                {
+                    "CourseCode": "GIG1012/ GLT1017",
+                    "CourseName": "Philosophy and Current Issues (for local student only) / Basic Malay Language (for international student)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "GLTXXXX",
+                    "CourseName": "English for Communication (1)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIX1001",
+                    "CourseName": "Computing Mathematics I",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIX1002",
+                    "CourseName": "Fundamentals of Programming",
+                    "CreditHours": 5
+                },
+                {
+                    "CourseCode": "WIX1003",
+                    "CourseName": "Computer Systems and Organization",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIX2001",
+                    "CourseName": "Thinking and Communication Skills",
+                    "CreditHours": 3
+                }
+              ],
+              "Semester2": [
+                {
+                    "CourseCode": "GIG1013",
+                    "CourseName": "Appreciation of Ethics and Civilizations",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "GLTXXXX",
+                    "CourseName": "English for Communication (2)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIA1002",
+                    "CourseName": "Data Structure (#WIX1002)",
+                    "CreditHours": 5
+                },
+                {
+                    "CourseCode": "WIA1003",
+                    "CourseName": "Computer System Architecture",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA1005",
+                    "CourseName": "Network Technology Foundation",
+                    "CreditHours": 4
+                },
+                {
+                    "CourseCode": "WIA1006",
+                    "CourseName": "Machine Learning",
+                    "CreditHours": 3
+                }
+              ],
+              "Semester3": [
+                {
+                    "CourseCode": "GIG1003",
+                    "CourseName": "Basic Entrepreneurship Culture",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIX2002",
+                    "CourseName": "Project Management",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2001",
+                    "CourseName": "Database",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2003",
+                    "CourseName": "Probability and Statistics",
+                    "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIA2006",
+                  "CourseName": "System Analysis and Design",
+                  "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2008",
+                    "CourseName": "Advanced Network Technology (#WIA1005)",
+                    "CreditHours": 4
+                },
+                {
+                    "CourseCode": "WIA2007",
+                    "CourseName": "Digital Design and Hardware Description Language (#WIX1003 & #WIA1003)",
+                    "CreditHours": 3
+                }
+              ],
+              "Semester4": [
+                {
+                    "CourseCode": "",
+                    "CourseName": "Co-Curriculum (1)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIA2004",
+                    "CourseName": "Operating Systems",
+                    "CreditHours": 4
+                },
+                {
+                    "CourseCode": "WIA2005",
+                    "CourseName": "Algorithm Design and Analysis (#WIA1002)",
+                    "CreditHours": 4
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (1)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (2)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (3)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "GQX0056",
+                    "CourseName": "KIAR: Integrity and Anti-Corruption",
+                    "CreditHours": 2
+                }
+              ],
+              "Semester5": [
+                {
+                    "CourseCode": "WIA3001",
+                    "CourseName": "Industrial Training",
+                    "CreditHours": 12
+                }
+              ],
+              "Semester6": [
+                {
+                    "CourseCode": "WIA3002",
+                    "CourseName": "Academic Project I",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (4)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (5)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (6)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (7)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "University Elective (Cluster 1)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "University Elective (Cluster 2)",
+                    "CreditHours": 2
+                }
+              ],
+              "Semester7": [
+                {
+                    "CourseCode": "",
+                    "CourseName": "Co-Curriculum (2)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIA3003",
+                    "CourseName": "Academic Project II (#WIA3002)",
+                    "CreditHours": 5
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (8)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (9)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (10)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "University Elective (Cluster 3)",
+                    "CreditHours": 2
+                }
+              ],
+              "SpecializationElectiveCourses(Choose only 10 courses)": [
+                {
+                  "CourseCode": "WIC2002",
+                  "CourseName": "Network Security",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIC2004",
+                  "CourseName": "Internet Technology",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIC2005",
+                  "CourseName": "Programmable Network (#WIA2008)",
+                  "CreditHours": 3
+                },  
+                {
+                  "CourseCode": "WIC2006",
+                  "CourseName": "Digital Forensic",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIC2007",
+                  "CourseName": "Cyber Security",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIC2008",
+                  "CourseName": "Internet of Things (#WIA1005)",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIC3001",
+                  "CourseName": "Mathematics in Networking",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIC3002",
+                  "CourseName": "Cryptography",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIC3003",
+                  "CourseName": "Embedded System Programming",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIC3004",
+                  "CourseName": "Computer Penetration",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIC3005",
+                  "CourseName": "Enterprise Network Design and Management (#WIA1005)",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIC3006",
+                  "CourseName": "Mobile Computing",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIC3007",
+                  "CourseName": "Principles of Distributed System (#WIA1005)",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIC3008",
+                  "CourseName": "Microprocessor",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIC3009",
+                  "CourseName": "Parallel Programming",
+                  "CreditHours": 3
+                }
+              ]
+            },
+            "coursePeriod": "7 semesters",
+            "startDate": "October",
+            "localStudentConventionalTuitionFee": "RM 10,200",
+            "localStudentOpenChannelTuitionFee": "RM 57,700",
+            "internationalStudentTuitionFee": "RM 73,700",
+            "levelOfStudy": "Bachelor",
+            "entryRequirements": {
+              "STPM": [
+                "Pass SPM / equivalent with credit in Bahasa Melayu and Mathematics",
+                "Pass SPM / equivalent with at least 3 credits in any subjects",
+                "Passed STPM with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the STPM level in Mathematics (T), Physics, and Chemistry / Biology / Information and Communications Technology (ICT)",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET"
+              ],
+              "Matriculation/Foundation": [
+                "Passed Matriculation/Foundation with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the Matriculation/Foundation level in Mathematics, Physics, Engineering Physics, and Engineering Physics / Chemistry / Engineering Chemistry / Biology / Computer Science / Computing",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET"
+              ],
+              "STAM": [ 
+                "Not Offered"
+              ],
+              "DIPLOMA": [
+                "Possess a Diploma in Computer Science or Diploma in Information Technology from a Public University (UA) / other institutions in related fields recognized by the Malaysian Government and approved by the University Senate with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the Diploma level in Mathematics",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET",
+                "OR",
+                "Passed STPM in a non-current year with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the STPM level in Mathematics (T), Physics, and Chemistry / Biology / Information and Communications Technology (ICT)",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET",
+                "OR",
+                "Passed Matriculation / Foundation in a non-current year with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the Matriculation / Foundation level in Mathematics, Physics, Engineering Physics, and Engineering Physics / Chemistry / Engineering Chemistry / Biology / Computer Science / Computing",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET"
+              ],
+              "Other Qualifications": [
+                "A-LEVEL",
+                "Possess GCE A-Level qualifications with at least a Grade A in Mathematics",
+                "Obtained at least a Grade B in one (1) of the following subjects: Computing, Physics, Further Mathematics, Chemistry, Biology",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET. However, applicants without MUET but with the following results can be considered for conditional admission, provided they meet the MUET requirement within one academic session:",
+                "At least Band 4 (Academic) in IELTS; or",
+                "A score of 437-473 (PBT) / 123-150 (CBT) / 41-52 (IBT) in TOEFL",
+                "INTERNATIONAL BACCALAUREATE (IB) DIPLOMA",
+                "Possess an International Baccalaureate (IB) Diploma with a minimum score of 30 points and a Grade 5 (Higher Level) in Mathematics",
+                "In one (1) of the following subjects: Chemistry, Physics, Computer Science, Biology",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET. However, applicants without MUET but with the following results can be considered for conditional admission, provided they meet the MUET requirement within one academic session:",
+                "At least Band 4 (Academic) in IELTS; or",
+                "A score of 437-473 (PBT) / 123-150 (CBT) / 41-52 (IBT) in TOEFL",
+                "AUSTRALIAN MATRICULATION PROGRAMME (AUSMAT)",
+                "Possess an Australian Matriculation Programme (AUSMAT) qualification with a minimum Australian Tertiary Admission Rank (ATAR) of 80% and a score of 16 (High Achievement) in Mathematics",
+                "A score of 16 (High Achievement) in one (1) of the following subjects: Physics, Chemistry, Mathematics Specialist",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET. However, applicants without MUET but with the following results can be considered for conditional admission, provided they meet the MUET requirement within one academic session:",
+                "At least Band 4 (Academic) in IELTS; or",
+                "A score of 437-473 (PBT) / 123-150 (CBT) / 41-52 (IBT) in TOEFL"
+              ]
+            },  
+            "contacts": "-",
+            "programmeUrl": "https://fsktm.um.edu.my/bachelor-of-computer-science-computer-system-and-network"
+          },
+          {
+            "id": "bachelor-of-computer-science-data-science",
+            "programmeName": "Bachelor of Computer Science (Data Science)",
+            "benefits": "-",
+            "careerOpportunities": [
+              "Data Scientist",
+              "Data Analyst",
+              "Machine Learning Engineer",
+              "Data Modeler",
+              "Data Miner",
+              "Webometrician",
+              "Statistician",
+              "Data Engineer",
+              "Academician",
+              "Researcher",
+              "Entrepreneur"
+            ],
+            "courseStructure": {
+              "Semester1": [
+                {
+                    "CourseCode": "GIG1012/ GLT1017",
+                    "CourseName": "Philosophy and Current Issues (for local student only) / Basic Malay Language (for international student)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIX1001",
+                    "CourseName": "Computing Mathematics I",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIX1002",
+                    "CourseName": "Fundamentals of Programming",
+                    "CreditHours": 5
+                },
+                {
+                    "CourseCode": "WIX1003",
+                    "CourseName": "Computer Systems and Organization",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA1001",
+                    "CourseName": "Information Systems",
+                    "CreditHours": 3
+                }
+              ],
+              "Semester2": [
+                {
+                    "CourseCode": "GIG1013",
+                    "CourseName": "Appreciation of Ethics and Civilizations",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "GIG1004",
+                    "CourseName": "Information Literacy",
+                    "CreditHours": 2
+                },
+                {
+                  "CourseCode": "GIG1005",
+                  "CourseName": "Social Engagement",
+                  "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIA1002",
+                    "CourseName": "Data Structure (#WIX1002)",
+                    "CreditHours": 5
+                },
+                {
+                    "CourseCode": "WIA1003",
+                    "CourseName": "Computer System Architecture",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIE2003",
+                    "CourseName": "Introduction to Data Science",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA1006",
+                    "CourseName": "Machine Learning",
+                    "CreditHours": 3
+                }
+              ],
+              "Semester3": [
+                {
+                  "CourseCode": "GLTXXXX",
+                  "CourseName": "English for Communication (1)",
+                  "CreditHours": 3
+                },
+                {
+                    "CourseCode": "GIG1003",
+                    "CourseName": "Basic Entrepreneurship Culture",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIX2001",
+                    "CourseName": "Thinking and Communication Skills",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIX2002",
+                    "CourseName": "Project Management",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2001",
+                    "CourseName": "Database",
+                    "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIA2002",
+                  "CourseName": "Software Modelling",
+                  "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2003",
+                    "CourseName": "Probability and Statistics",
+                    "CreditHours": 3
+                }
+              ],
+              "Semester4": [
+                {
+                    "CourseCode": "",
+                    "CourseName": "Co-Curriculum (1)",
+                    "CreditHours": 2
+                },
+                {
+                  "CourseCode": "GLTXXXX",
+                  "CourseName": "English for Communication (2)",
+                  "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2004",
+                    "CourseName": "Operating Systems",
+                    "CreditHours": 4
+                },
+                {
+                    "CourseCode": "WIA1005",
+                    "CourseName": "Network Technology Foundation",
+                    "CreditHours": 4
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (1)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (2)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Faculty Elective (1)",
+                    "CreditHours": 3
+                }
+              ],
+              "Semester5": [
+                {
+                  "CourseCode": "WIH3001",
+                  "CourseName": "Data Science Project",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "",
+                  "CourseName": "Specialization Elective (3)",
+                  "CreditHours": 3
+                },
+              {
+                  "CourseCode": "",
+                  "CourseName": "Specialization Elective (4)",
+                  "CreditHours": 3
+              },
+              {
+                  "CourseCode": "",
+                  "CourseName": "Specialization Elective (5)",
+                  "CreditHours": 3
+              },
+              {
+                  "CourseCode": "",
+                  "CourseName": "Specialization Elective (6)",
+                  "CreditHours": 3
+              },
+              {
+                  "CourseCode": "",
+                  "CourseName": "Faculty Elective (2)",
+                  "CreditHours": 3
+              },
+              {
+                  "CourseCode": "",
+                  "CourseName": "External Faculty Elective",
+                  "CreditHours": 2
+              }
+              ],
+              "Semester6": [
+                {
+                  "CourseCode": "WIH3002",
+                  "CourseName": "Data Science Industrial Training",
+                  "CreditHours": 14
+              }     
+              ],
+              "Semester7": [
+                {
+                  "CourseCode": "WIA3001",
+                  "CourseName": "Industrial Training",
+                  "CreditHours": 12
+                }
+              ],
+              "SpecializationElectiveCourses(Choose only 10 courses)": [
+                {
+                  "CourseCode": "WIH2001",
+                  "CourseName": "Data Analytics",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WID2001",
+                  "CourseName": "Knowledge Representation and Reasoning",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WID2002",
+                  "CourseName": "Computing Mathematics II",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WID3001",
+                  "CourseName": "Functional and Logic Programming",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WID3002",
+                  "CourseName": "Natural Language Processing",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIE3007",
+                  "CourseName": "Data Mining and Warehousing",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIE3008",
+                  "CourseName": "Business Analytics and Intelligence",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIE3010",
+                  "CourseName": "Data Visualization",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIH3003",
+                  "CourseName": "Big Data Applications and Analytics",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIH3004",
+                  "CourseName": "Trends in Data Science",
+                  "CreditHours": 3
+                }
+              ]
+            },  
+            "coursePeriod": "7 semesters",
+            "startDate": "October",
+            "localStudentConventionalTuitionFee": "RM 20,500",
+            "localStudentOpenChannelTuitionFee": "RM 71,000",
+            "internationalStudentTuitionFee": "RM 72,800",
+            "levelOfStudy": "Bachelor",
+            "entryRequirements": {
+              "STPM": [
+                "Pass SPM / equivalent with credit in Bahasa Melayu and Mathematics",
+                "Pass SPM / equivalent with at least 3 credits in any subjects",
+                "Passed STPM with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the STPM level in Mathematics (T), Physics, and Chemistry / Biology / Information and Communications Technology (ICT)",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET"
+              ],
+              "Matriculation/Foundation": [
+                "Passed Matriculation/Foundation with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the Matriculation/Foundation level in Mathematics, Physics, Engineering Physics, and Engineering Physics / Chemistry / Engineering Chemistry / Biology / Computer Science / Computing",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET"
+              ],
+              "STAM": [ 
+                "Not Offered"
+              ],
+              "DIPLOMA": [
+                "Possess a Diploma in Computer Science or Diploma in Information Technology from a Public University (UA) / other institutions in related fields recognized by the Malaysian Government and approved by the University Senate with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the Diploma level in Mathematics",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET",
+                "OR",
+                "Passed STPM in a non-current year with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the STPM level in Mathematics (T), Physics, and Chemistry / Biology / Information and Communications Technology (ICT)",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET",
+                "OR",
+                "Passed Matriculation / Foundation in a non-current year with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the Matriculation / Foundation level in Mathematics, Physics, Engineering Physics, and Engineering Physics / Chemistry / Engineering Chemistry / Biology / Computer Science / Computing",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET"
+              ],
+              "Other Qualifications": [
+                "Not Offered"
+              ]
+            },  
+            "contacts": "-",
+            "programmeUrl": "https://fsktm.um.edu.my/bachelor-of-computer-science-data-science"
+          },
+          {
+            "id": "bachelor-of-computer-science-information-systems",
+            "programmeName": "Bachelor of Computer Science (Information Systems)",
+            "benefits": "-",
+            "careerOpportunities": [
+              "System / Business Analyst",
+              "Database Engineer / Administrator",
+              "Chief Information Officer",
+              "Programmer",
+              "Web / Software Developer",
+              "Computer / Information System Manager",
+              "System / Management / IT Consultant",
+              "Academician",
+              "Researcher",
+              "Entrepreneur"
+            ],
+            "courseStructure": {
+              "Semester1": [
+                {
+                    "CourseCode": "GIG1012/ GLT1017",
+                    "CourseName": "Philosophy and Current Issues (for local student only) / Basic Malay Language (for international student)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "GLTXXXX",
+                    "CourseName": "English for Communication (1)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIX1001",
+                    "CourseName": "Computing Mathematics I",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIX1002",
+                    "CourseName": "Fundamentals of Programming",
+                    "CreditHours": 5
+                },
+                {
+                    "CourseCode": "WIX1003",
+                    "CourseName": "Computer Systems and Organization",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA1001",
+                    "CourseName": "Information Systems",
+                    "CreditHours": 3
+                }
+              ],
+              "Semester2": [
+                {
+                    "CourseCode": "GIG1013",
+                    "CourseName": "Appreciation of Ethics and Civilizations",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "GLTXXXX",
+                    "CourseName": "English for Communication (2)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIA1002",
+                    "CourseName": "Data Structure (#WIX1002)",
+                    "CreditHours": 5
+                },
+                {
+                    "CourseCode": "WIA1003",
+                    "CourseName": "Computer System Architecture",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA1005",
+                    "CourseName": "Network Technology Foundation",
+                    "CreditHours": 4
+                },
+                {
+                    "CourseCode": "WIA1006",
+                    "CourseName": "Machine Learning",
+                    "CreditHours": 3
+                }
+              ],
+              "Semester3": [
+                {
+                    "CourseCode": "GIG1003",
+                    "CourseName": "Basic Entrepreneurship Culture",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIX2001",
+                    "CourseName": "Thinking and Communication Skills",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIX2002",
+                    "CourseName": "Project Management",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2001",
+                    "CourseName": "Database",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2003",
+                    "CourseName": "Probability and Statistics",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2006",
+                    "CourseName": "System Analysis and Design",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2007",
+                    "CourseName": "Mobile Application Development",
+                    "CreditHours": 4
+                }
+              ],
+              "Semester4": [
+                {
+                    "CourseCode": "",
+                    "CourseName": "Co-Curriculum (1)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIA2004",
+                    "CourseName": "Operating Systems",
+                    "CreditHours": 4
+                },
+                {
+                    "CourseCode": "WIA2005",
+                    "CourseName": "Algorithm Design and Analysis (#WIA1002)",
+                    "CreditHours": 4
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (1)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (2)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (3)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "GQX0056",
+                    "CourseName": "KIAR: Integrity and Anti-Corruption",
+                    "CreditHours": 2
+                }
+              ],
+              "Semester5": [
+                {
+                    "CourseCode": "WIA3001",
+                    "CourseName": "Industrial Training",
+                    "CreditHours": 12
+                }
+              ],
+              "Semester6": [
+                {
+                    "CourseCode": "WIA3002",
+                    "CourseName": "Academic Project I",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (4)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (5)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (6)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (7)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "University Elective (Cluster 1)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "University Elective (Cluster 2)",
+                    "CreditHours": 2
+                }
+              ],
+              "Semester7": [
+                {
+                    "CourseCode": "",
+                    "CourseName": "Co-Curriculum (2)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIA3003",
+                    "CourseName": "Academic Project II (#WIA3002)",
+                    "CreditHours": 5
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (8)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (9)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (10)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "University Elective (Cluster 3)",
+                    "CreditHours": 2
+                }
+              ],
+              "SpecializationElectiveCourses(Choose only 10 courses)": [
+                {
+                    "CourseCode": "WIC2008",
+                    "CourseName": "Internet of Things",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIE2001",
+                    "CourseName": "Trends in Information Systems",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIE2002",
+                    "CourseName": "Open-Source Programming: Application and Technology",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIE2003",
+                    "CourseName": "Introduction to Data Science",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIE2005",
+                    "CourseName": "Information Retrieval and Web Search",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIE3001",
+                    "CourseName": "Advanced Database",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIE3002",
+                    "CourseName": "Electronic Commerce",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIE3003",
+                    "CourseName": "Information System Control and Security",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIE3005",
+                    "CourseName": "Knowledge Management and Engineering",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIE3006",
+                    "CourseName": "Information System Auditing",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIE3007",
+                    "CourseName": "Data Mining and Warehousing",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIE3010",
+                    "CourseName": "Data Visualization",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIE3012",
+                    "CourseName": "Business Analytics and Intelligence",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIF2003",
+                    "CourseName": "Web Programming",
+                    "CreditHours": 3
+                }
+              ]
+            },  
+            "coursePeriod": "7 semesters",
+            "startDate": "October",
+            "localStudentConventionalTuitionFee": "RM 10,200",
+            "localStudentOpenChannelTuitionFee": "RM 57,700",
+            "internationalStudentTuitionFee": "RM 73,700",
+            "levelOfStudy": "Bachelor",
+            "entryRequirements": {
+              "STPM": [
+                "Pass SPM / equivalent with credit in Bahasa Melayu and Mathematics",
+                "Pass SPM / equivalent with at least 3 credits in any subjects",
+                "Passed STPM with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the STPM level in Mathematics (T), Physics, and Chemistry / Biology / Information and Communications Technology (ICT)",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET"
+              ],
+              "Matriculation/Foundation": [
+                "Passed Matriculation/Foundation with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the Matriculation/Foundation level in Mathematics, Physics, Engineering Physics, and Engineering Physics / Chemistry / Engineering Chemistry / Biology / Computer Science / Computing",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET"
+              ],
+              "STAM": [ 
+                "Not Offered"
+              ],
+              "DIPLOMA": [
+                "Possess a Diploma in Computer Science or Diploma in Information Technology from a Public University (UA) / other institutions in related fields recognized by the Malaysian Government and approved by the University Senate with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the Diploma level in Mathematics",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET",
+                "OR",
+                "Passed STPM in a non-current year with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the STPM level in Mathematics (T), Physics, and Chemistry / Biology / Information and Communications Technology (ICT)",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET",
+                "OR",
+                "Passed Matriculation / Foundation in a non-current year with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the Matriculation / Foundation level in Mathematics, Physics, Engineering Physics, and Engineering Physics / Chemistry / Engineering Chemistry / Biology / Computer Science / Computing",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET"
+              ],
+              "Other Qualifications": [
+                "A-LEVEL",
+                "Possess GCE A-Level qualifications with at least a Grade A in Mathematics",
+                "Obtained at least a Grade B in one (1) of the following subjects: Computing, Physics, Further Mathematics, Chemistry, Biology",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET. However, applicants without MUET but with the following results can be considered for conditional admission, provided they meet the MUET requirement within one academic session:",
+                "At least Band 4 (Academic) in IELTS; or",
+                "A score of 437-473 (PBT) / 123-150 (CBT) / 41-52 (IBT) in TOEFL",
+                "INTERNATIONAL BACCALAUREATE (IB) DIPLOMA",
+                "Possess an International Baccalaureate (IB) Diploma with a minimum score of 30 points and a Grade 5 (Higher Level) in Mathematics",
+                "In one (1) of the following subjects: Chemistry, Physics, Computer Science, Biology",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET. However, applicants without MUET but with the following results can be considered for conditional admission, provided they meet the MUET requirement within one academic session:",
+                "At least Band 4 (Academic) in IELTS; or",
+                "A score of 437-473 (PBT) / 123-150 (CBT) / 41-52 (IBT) in TOEFL",
+                "AUSTRALIAN MATRICULATION PROGRAMME (AUSMAT)",
+                "Possess an Australian Matriculation Programme (AUSMAT) qualification with a minimum Australian Tertiary Admission Rank (ATAR) of 80% and a score of 16 (High Achievement) in Mathematics",
+                "A score of 16 (High Achievement) in one (1) of the following subjects: Physics, Chemistry, Mathematics Specialist",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET. However, applicants without MUET but with the following results can be considered for conditional admission, provided they meet the MUET requirement within one academic session:",
+                "At least Band 4 (Academic) in IELTS; or",
+                "A score of 437-473 (PBT) / 123-150 (CBT) / 41-52 (IBT) in TOEFL"
+              ]
+            },  
+            "contacts": "-",
+            "programmeUrl": "https://fsktm.um.edu.my/bachelor-of-computer-science-information-systems"
+          },
+          {
+            "id": "bachelor-of-computer-science-software-engineering",
+            "programmeName": "Bachelor of Computer Science (Software Engineering)",
+            "benefits": "-",
+            "careerOpportunities": [
+              "System Analyst",
+              "Software Engineer",
+              "Software Tester",
+              "Software Architect",
+              "Programmer",
+              "Project Manager",
+              "Academician",
+              "Researcher"
+            ],
+            "courseStructure": {
+              "Semester1": [
+                {
+                    "CourseCode": "GIG1012/ GLT1017",
+                    "CourseName": "Philosophy and Current Issues (for local student only) / Basic Malay Language (for international student)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "GLTXXXX",
+                    "CourseName": "English for Communication (1)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIX1001",
+                    "CourseName": "Computing Mathematics I",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIX1002",
+                    "CourseName": "Fundamentals of Programming",
+                    "CreditHours": 5
+                },
+                {
+                    "CourseCode": "WIX1003",
+                    "CourseName": "Computer Systems and Organization",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2010",
+                    "CourseName": "Human Computer Interaction",
+                    "CreditHours": 3
+                }
+              ],
+              "Semester2": [
+                {
+                    "CourseCode": "GIG1013",
+                    "CourseName": "Appreciation of Ethics and Civilizations",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "GLTXXXX",
+                    "CourseName": "English for Communication (2)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIA1002",
+                    "CourseName": "Data Structure (#WIX1002)",
+                    "CreditHours": 5
+                },
+                {
+                    "CourseCode": "WIA1003",
+                    "CourseName": "Computer System Architecture",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA1005",
+                    "CourseName": "Network Technology Foundation",
+                    "CreditHours": 4
+                },
+                {
+                    "CourseCode": "WIA1006",
+                    "CourseName": "Machine Learning",
+                    "CreditHours": 3
+                }
+              ],
+              "Semester3": [
+                {
+                    "CourseCode": "GIG1003",
+                    "CourseName": "Basic Entrepreneurship Culture",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIX2001",
+                    "CourseName": "Thinking and Communication Skills",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIX2002",
+                    "CourseName": "Project Management",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2001",
+                    "CourseName": "Database",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2003",
+                    "CourseName": "Probability and Statistics",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2002",
+                    "CourseName": "Software Modeling",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2007",
+                    "CourseName": "Mobile Application Development",
+                    "CreditHours": 4
+                }
+              ],
+              "Semester4": [
+                {
+                    "CourseCode": "",
+                    "CourseName": "Co-Curriculum (1)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIA2004",
+                    "CourseName": "Operating Systems",
+                    "CreditHours": 4
+                },
+                {
+                    "CourseCode": "WIA2005",
+                    "CourseName": "Algorithm Design and Analysis (#WIA1002)",
+                    "CreditHours": 4
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (1)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (2)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (3)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "GQX0056",
+                    "CourseName": "KIAR: Integrity and Anti-Corruption",
+                    "CreditHours": 2
+                }
+              ],
+              "Semester5": [
+                {
+                    "CourseCode": "WIA3001",
+                    "CourseName": "Industrial Training",
+                    "CreditHours": 12
+                }
+              ],
+              "Semester6": [
+                {
+                    "CourseCode": "WIA3002",
+                    "CourseName": "Academic Project I",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (4)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (5)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (6)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (7)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "University Elective (Cluster 1)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "University Elective (Cluster 2)",
+                    "CreditHours": 2
+                }
+              ],
+              "Semester7": [
+                {
+                    "CourseCode": "",
+                    "CourseName": "Co-Curriculum (2)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIA3003",
+                    "CourseName": "Academic Project II (#WIA3002)",
+                    "CreditHours": 5
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (8)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (9)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (10)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "University Elective (Cluster 3)",
+                    "CreditHours": 2
+                }
+              ],
+              "SpecializationElectiveCourses(Choose only 10 courses)": [
+                {
+                    "CourseCode": "WIF2002",
+                    "CourseName": "Software Requirements Engineering",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIF2003",
+                    "CourseName": "Web Programming",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIF3001",
+                    "CourseName": "Software Testing",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIF3002",
+                    "CourseName": "Software Process and Quality",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIF3004",
+                    "CourseName": "Software Architecture and Design Paradigms (#WIA2002)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIF3005",
+                    "CourseName": "Software Maintenance and Evolution",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIF3006",
+                    "CourseName": "Component Based Software Engineering (#WIA2002)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIF3008",
+                    "CourseName": "Real Time Systems",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIF3009",
+                    "CourseName": "Python for Scientific Computing",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIF3010",
+                    "CourseName": "Programming Language Paradigm",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIF3011",
+                    "CourseName": "Concurrent and Parallel Programming (#WIX1002) (#WIA2004)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIG3005",
+                    "CourseName": "Game Development",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIC2008",
+                    "CourseName": "Internet of Things (#WIA1005)",
+                    "CreditHours": 3
+                }
+              ]
+            },
+            "coursePeriod": "7 semesters",
+            "startDate": "October",
+            "localStudentConventionalTuitionFee": "RM 10,200",
+            "localStudentOpenChannelTuitionFee": "RM 57,700",
+            "internationalStudentTuitionFee": "RM 73,700",
+            "levelOfStudy": "Bachelor",
+            "entryRequirements": {
+              "STPM": [
+                "Pass SPM / equivalent with credit in Bahasa Melayu and Mathematics",
+                "Pass SPM / equivalent with at least 3 credits in any subjects",
+                "Passed STPM with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the STPM level in Mathematics (T), Physics, and Chemistry / Biology / Information and Communications Technology (ICT)",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET"
+              ],
+              "Matriculation/Foundation": [
+                "Passed Matriculation/Foundation with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the Matriculation/Foundation level in Mathematics, Physics, Engineering Physics, and Engineering Physics / Chemistry / Engineering Chemistry / Biology / Computer Science / Computing",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET"
+              ],
+              "STAM": [ 
+                "Not Offered"
+              ],
+              "DIPLOMA": [
+                "Possess a Diploma in Computer Science or Diploma in Information Technology from a Public University (UA) / other institutions in related fields recognized by the Malaysian Government and approved by the University Senate with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the Diploma level in Mathematics",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET",
+                "OR",
+                "Passed STPM in a non-current year with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the STPM level in Mathematics (T), Physics, and Chemistry / Biology / Information and Communications Technology (ICT)",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET",
+                "OR",
+                "Passed Matriculation / Foundation in a non-current year with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the Matriculation / Foundation level in Mathematics, Physics, Engineering Physics, and Engineering Physics / Chemistry / Engineering Chemistry / Biology / Computer Science / Computing",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET"
+              ],
+              "Other Qualifications": [
+                "A-LEVEL",
+                "Possess GCE A-Level qualifications with at least a Grade A in Mathematics",
+                "Obtained at least a Grade B in one (1) of the following subjects: Computing, Physics, Further Mathematics, Chemistry, Biology",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET. However, applicants without MUET but with the following results can be considered for conditional admission, provided they meet the MUET requirement within one academic session:",
+                "At least Band 4 (Academic) in IELTS; or",
+                "A score of 437-473 (PBT) / 123-150 (CBT) / 41-52 (IBT) in TOEFL",
+                "INTERNATIONAL BACCALAUREATE (IB) DIPLOMA",
+                "Possess an International Baccalaureate (IB) Diploma with a minimum score of 30 points and a Grade 5 (Higher Level) in Mathematics",
+                "In one (1) of the following subjects: Chemistry, Physics, Computer Science, Biology",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET. However, applicants without MUET but with the following results can be considered for conditional admission, provided they meet the MUET requirement within one academic session:",
+                "At least Band 4 (Academic) in IELTS; or",
+                "A score of 437-473 (PBT) / 123-150 (CBT) / 41-52 (IBT) in TOEFL",
+                "AUSTRALIAN MATRICULATION PROGRAMME (AUSMAT)",
+                "Possess an Australian Matriculation Programme (AUSMAT) qualification with a minimum Australian Tertiary Admission Rank (ATAR) of 80% and a score of 16 (High Achievement) in Mathematics",
+                "A score of 16 (High Achievement) in one (1) of the following subjects: Physics, Chemistry, Mathematics Specialist",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET. However, applicants without MUET but with the following results can be considered for conditional admission, provided they meet the MUET requirement within one academic session:",
+                "At least Band 4 (Academic) in IELTS; or",
+                "A score of 437-473 (PBT) / 123-150 (CBT) / 41-52 (IBT) in TOEFL"
+            ]
+            }, 
+            "contacts": "-",
+            "programmeUrl": "https://fsktm.um.edu.my/bachelor-of-computer-science-software-engineering"
+          },
+          {
+            "id": "bachelor-of-information-technology-multimedia",
+            "programmeName": "Bachelor of Computer Science (Multimedia Computing)",
+            "benefits": "-",
+            "careerOpportunities": [
+              "Manager",
+              "Consultant",
+              "Designer",
+              "Web Master",
+              "Programmer",
+              "Film Industry",
+              "Forensic",
+              "Academician",
+              "Researcher"
+            ],
+            "courseStructure": {
+              "Semester1": [
+                {
+                    "CourseCode": "GIG1012/ GLT1017",
+                    "CourseName": "Philosophy and Current Issues (for local student only) / Basic Malay Language (for international student)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "GLTXXXX",
+                    "CourseName": "English for Communication (1)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIX1001",
+                    "CourseName": "Computing Mathematics I",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIX1002",
+                    "CourseName": "Fundamentals of Programming",
+                    "CreditHours": 5
+                },
+                {
+                    "CourseCode": "WIX1003",
+                    "CourseName": "Computer Systems and Organization",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA1008",
+                    "CourseName": "Fundamental of Multimedia",
+                    "CreditHours": 3
+                }
+              ],
+              "Semester2": [
+                {
+                    "CourseCode": "GIG1013",
+                    "CourseName": "Appreciation of Ethics and Civilizations",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "GLTXXXX",
+                    "CourseName": "English for Communication (2)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIA1002",
+                    "CourseName": "Data Structure (#WIX1002)",
+                    "CreditHours": 5
+                },
+                {
+                    "CourseCode": "WIA1003",
+                    "CourseName": "Computer System Architecture",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA1005",
+                    "CourseName": "Network Technology Foundation",
+                    "CreditHours": 4
+                },
+                {
+                    "CourseCode": "WIA1006",
+                    "CourseName": "Machine Learning",
+                    "CreditHours": 3
+                }
+              ],
+              "Semester3": [
+                {
+                    "CourseCode": "GIG1003",
+                    "CourseName": "Basic Entrepreneurship Culture",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIX2001",
+                    "CourseName": "Thinking and Communication Skills",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIX2002",
+                    "CourseName": "Project Management",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2001",
+                    "CourseName": "Database",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2003",
+                    "CourseName": "Probability and Statistics",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2006",
+                    "CourseName": "System Analysis and Design",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "WIA2007",
+                    "CourseName": "Mobile Application Development",
+                    "CreditHours": 4
+                }
+              ],
+              "Semester4": [
+                {
+                    "CourseCode": "",
+                    "CourseName": "Co-Curriculum (1)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIA2004",
+                    "CourseName": "Operating Systems",
+                    "CreditHours": 4
+                },
+                {
+                    "CourseCode": "WIA2005",
+                    "CourseName": "Algorithm Design and Analysis (#WIA1002)",
+                    "CreditHours": 4
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (1)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (2)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (3)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "GQX0056",
+                    "CourseName": "KIAR: Integrity and Anti-Corruption",
+                    "CreditHours": 2
+                }
+              ],
+              "Semester5": [
+                {
+                    "CourseCode": "WIA3001",
+                    "CourseName": "Industrial Training",
+                    "CreditHours": 12
+                }
+              ],
+              "Semester6": [
+                {
+                    "CourseCode": "WIA3002",
+                    "CourseName": "Academic Project I",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (4)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (5)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (6)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (7)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "University Elective (Cluster 1)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "University Elective (Cluster 2)",
+                    "CreditHours": 2
+                }
+              ],
+              "Semester7": [
+                {
+                    "CourseCode": "",
+                    "CourseName": "Co-Curriculum (2)",
+                    "CreditHours": 2
+                },
+                {
+                    "CourseCode": "WIA3003",
+                    "CourseName": "Academic Project II (#WIA3002)",
+                    "CreditHours": 5
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (8)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (9)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "Specialization Elective (10)",
+                    "CreditHours": 3
+                },
+                {
+                    "CourseCode": "",
+                    "CourseName": "University Elective (Cluster 3)",
+                    "CreditHours": 2
+                }
+              ],
+              "SpecializationElectiveCourses(Choose only 10 courses)": [
+                {
+                  "CourseCode": "WIG2001",
+                  "CourseName": "Digital Image Processing",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIG2002",
+                  "CourseName": "Computer Graphics",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIG2004",
+                  "CourseName": "Audio Synthesis",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIG2005",
+                  "CourseName": "Interactive Design",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIG3001",
+                  "CourseName": "Mathematics for Multimedia",
+                  "CreditHours": 3
+                },
+                { 
+                  "CourseCode": "WIG3002",
+                  "CourseName": "Rendering and Animation",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIG3003",
+                  "CourseName": "Multimedia Programming",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIG3004",
+                  "CourseName": "Virtual Reality",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIG3005",
+                  "CourseName": "Game Development",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIG3006",
+                  "CourseName": "Digital Video Processing",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIG3007",
+                  "CourseName": "Special Topics in Multimedia",
+                  "CreditHours": 3
+                },
+                { 
+                  "CourseCode": "WIG3008",
+                  "CourseName": "Multimedia Forensic and Security",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIE3010",
+                  "CourseName": "Data Visualization",
+                  "CreditHours": 3
+                },
+                {
+                  "CourseCode": "WIF2003",
+                  "CourseName": "Web Programming",
+                  "CreditHours": 3
+                }
+              ]
+            },  
+            "coursePeriod": "7 semesters",
+            "startDate": "October",
+            "localStudentConventionalTuitionFee": "RM 10,800",
+            "localStudentOpenChannelTuitionFee": "RM 57,700",
+            "internationalStudentTuitionFee": "RM 73,700",
+            "levelOfStudy": "Bachelor",
+            "entryRequirements": {
+              "STPM": [
+                "Pass SPM / equivalent with credit in Bahasa Melayu and Mathematics",
+                "Pass SPM / equivalent with at least 3 credits in any subjects",
+                "Passed STPM with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the STPM level in Mathematics (T), Physics, and Chemistry / Biology / Information and Communications Technology (ICT)",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET"
+              ],
+              "Matriculation/Foundation": [
+                "Passed Matriculation/Foundation with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the Matriculation/Foundation level in Mathematics, Physics, Engineering Physics, and Engineering Physics / Chemistry / Engineering Chemistry / Biology / Computer Science / Computing",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET"
+              ],
+              "STAM": [ 
+                "Not Offered"
+              ],
+              "DIPLOMA": [
+                "Possess a Diploma in Computer Science or Diploma in Information Technology from a Public University (UA) / other institutions in related fields recognized by the Malaysian Government and approved by the University Senate with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the Diploma level in Mathematics",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET",
+                "OR",
+                "Passed STPM in a non-current year with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the STPM level in Mathematics (T), Physics, and Chemistry / Biology / Information and Communications Technology (ICT)",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET",
+                "OR",
+                "Passed Matriculation / Foundation in a non-current year with a minimum CGPA of 3.00",
+                "Obtained at least a Grade B at the Matriculation / Foundation level in Mathematics, Physics, Engineering Physics, and Engineering Physics / Chemistry / Engineering Chemistry / Biology / Computer Science / Computing",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET"
+              ],
+              "Other Qualifications": [
+                "A-LEVEL",
+                "Possess GCE A-Level qualifications with at least a Grade A in Mathematics",
+                "Obtained at least a Grade B in one (1) of the following subjects: Computing, Physics, Further Mathematics, Chemistry, Biology",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET. However, applicants without MUET but with the following results can be considered for conditional admission, provided they meet the MUET requirement within one academic session:",
+                "At least Band 4 (Academic) in IELTS; or",
+                "A score of 437-473 (PBT) / 123-150 (CBT) / 41-52 (IBT) in TOEFL",
+                "INTERNATIONAL BACCALAUREATE (IB) DIPLOMA",
+                "Possess an International Baccalaureate (IB) Diploma with a minimum score of 30 points and a Grade 5 (Higher Level) in Mathematics",
+                "In one (1) of the following subjects: Chemistry, Physics, Computer Science, Biology",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET. However, applicants without MUET but with the following results can be considered for conditional admission, provided they meet the MUET requirement within one academic session:",
+                "At least Band 4 (Academic) in IELTS; or",
+                "A score of 437-473 (PBT) / 123-150 (CBT) / 41-52 (IBT) in TOEFL",
+                "AUSTRALIAN MATRICULATION PROGRAMME (AUSMAT)",
+                "Possess an Australian Matriculation Programme (AUSMAT) qualification with a minimum Australian Tertiary Admission Rank (ATAR) of 80% and a score of 16 (High Achievement) in Mathematics",
+                "A score of 16 (High Achievement) in one (1) of the following subjects: Physics, Chemistry, Mathematics Specialist",
+                "Obtained at least a Grade B at the SPM level in Additional Mathematics and Mathematics / Physics",
+                "Achieved at least Level 2 (Band 2) in MUET. However, applicants without MUET but with the following results can be considered for conditional admission, provided they meet the MUET requirement within one academic session:",
+                "At least Band 4 (Academic) in IELTS; or",
+                "A score of 437-473 (PBT) / 123-150 (CBT) / 41-52 (IBT) in TOEFL"
+              ]
+            },  
+            "contacts": "-",
+            "programmeUrl": "https://fsktm.um.edu.my/bachelor-of-information-technology-multimedia"
+          }    
+    ]
+    },
+    {
+        "University Malaya (UM) General Infomation" : [
+            {
+                "Info about how to apply University Malaya" : [
+                    {
+                        "bachelors_degree_programmes": {
+                            "malaysian": {
+                                "application_period": "until 29 March 2024 (Phase 1)",
+                                "submission_method": "online",
+                                "submission_url": "https://upu.mohe.gov.my",
+                                "eligibility": ["STPM", "Matriculation", "STAM", "Diploma or equivalent"],
+                                "requirements": [
+                                    "obtain unique ID number from BSN outlets all over Malaysia"
+                                ],
+                                "steps": [
+                                    "Choose Programme(s).",
+                                    "Submit application online."
+                                ],
+                                "apply_url": "https://upu.mohe.gov.my"
+                            },
+                            "open_channel_satu": {
+                                "application_period": "until 23 September 2024",
+                                "registration_url": "http://maya.um.edu.my",
+                                "steps": [
+                                    "Create an account via http://maya.um.edu.my and create a new application.",
+                                    "Log in and select 'CONTINUE' under the 'Unsubmitted Application' tab.",
+                                    "Select 'Citizen' as nationality, 'Universiti Malaya's Open Channel (SATU)' as mode of implementation, and 'Undergraduate: Universiti Malaya's Open Channel (SATU)' as level of study.",
+                                    "Search for desired program and select.",
+                                    "Click 'APPLY' to confirm program selection.",
+                                    "Provide personal particulars and click 'SAVE & CONTINUE'.",
+                                    "Provide next of kin details and click 'SAVE & CONTINUE'.",
+                                    "Provide academic qualifications, upload necessary certificates/transcripts, and select an English Level Proficiency test.",
+                                    "Add up to three additional preferred programs if desired.",
+                                    "Pay a processing fee of RM300, save the receipt, read and tick the appropriate boxes in the 'Declaration' and 'Disclaimer' sections, and click 'SUBMIT'."
+                                ],
+                                "apply_url": "http://maya.um.edu.my",
+                                "reference": "https://study.um.edu.my/how-to-apply-bachelor-rsquo-s-degree"
+                            },
+                            "international": {
+                                "application_period": "until 30 August 2024",
+                                "submission_method": "online",
+                                "submission_url": "https://maya.um.edu.my",
+                                "steps": [
+                                    "Choose Programme(s).",
+                                    "Complete application with personal details and academic qualifications.",
+                                    "Upload documents (Passport, photo, academic transcript, certificate, etc.).",
+                                    "Pay the processing fee via Payment Gateway FPX, Debit/Credit Card, Flywire.",
+                                    "Submit application and receive acknowledgment via email.",
+                                    "Check application status on the application portal.",
+                                    "Accept the offer on the application portal."
+                                ],
+                                "apply_url": "https://maya.um.edu.my"
+                            }
+                        }
+                    }                    
+                ]
+            },
+            {
+                "Schedule of the University Malaya shuttle bus" : [
+                    {
+                        "title": "SHUTTLE BUS OPERATION SCHEDULE",
+                        "department": "JABATAN PEMBANGUNAN & PENYELENGGARAAN HARTA BENDA",
+                        "university": "UNIVERSITI MALAYA",
+                        "routes": "ROUTE 13",
+                        "operating_days": "MONDAY - FRIDAY",
+                        "trips": [
+                            {"trip": 1, "time": "7.30 AM"},
+                            {"trip": 2, "time": "8.00 AM"},
+                            {"trip": 3, "time": "8.30 AM"},
+                            {"trip": 4, "time": "9.00 AM"},
+                            {"trip": 5, "time": "9.30 AM"},
+                            {"trip": 6, "time": "10.00 AM"},
+                            {"trip": 7, "time": "10.30 AM"},
+                            {"trip": 8, "time": "11.00 AM"},
+                            {"trip": 9, "time": "11.30 AM"},
+                            {"trip": 10, "time": "12.00 PM"},
+                            {"trip": 11, "time": "12.30 PM"},
+                            {"trip": 12, "time": "1.00 PM"},
+                            {"trip": 13, "time": "1.30 PM"},
+                            {"trip": 14, "time": "2.00 PM"},
+                            {"trip": 15, "time": "2.30 PM"},
+                            {"trip": 16, "time": "3.00 PM"},
+                            {"trip": 17, "time": "3.30 PM"},
+                            {"trip": 18, "time": "4.00 PM"},
+                            {"trip": 19, "time": "4.30 PM"},
+                            {"trip": 20, "time": "5.10 PM"},
+                            {"trip": 21, "time": "5.40 PM"},
+                            {"trip": 22, "time": "7.00 PM"},
+                            {"trip": 23, "time": "8.00 PM"},
+                            {"trip": 24, "time": "9.00 PM"},
+                            {"trip": 25, "time": "10.00 PM"}
+                        ],
+                        "stops": [
+                            {
+                                "stop_name": "Faculty of Engineering (Corner Bus Stop to PJ Gate)",
+                                "nearby_locations": ["Faculty of Business and Economics", "UM Central", "Universiti Malaya Central Library"]
+                            },
+                            {
+                                "stop_name": "13 Residential College",
+                                "nearby_locations": ["Universiti Islam Malaysia"]
+                            },
+                            {
+                                "stop_name": "UM Central",
+                                "nearby_locations": ["He & She Coffee", "Universiti Malaya Central Library", "Faculty of Arts and Social Sciences", "Faculty of Education", "Faculty of Science", "Kompleks Perdana Siswa (KPS)"]
+                            }
+                        ],
+                        "notes": [
+                            "The bus does not operate on the following days: Weekend (Saturday & Sunday)",
+                            "The bus does not operate during Friday Prayer. Time break starts from 12.30 pm—2.30 pm"
+                        ],
+                        "contact": {
+                            "phone": "03-7967 3311",
+                            "email": "kenderaanjpphb@um.edu.my"
+                        }
+                    },
+                    {
+                        "title": "SHUTTLE BUS OPERATION SCHEDULE",
+                        "department": "JABATAN PEMBANGUNAN & PENYELENGGARAAN HARTA BENDA",
+                        "university": "UNIVERSITI MALAYA",
+                        "routes": "ROUTE AB",
+                        "operating_days": "MONDAY - FRIDAY",
+                        "trips": [
+                            {"trip": 1, "time": "7.30 AM"},
+                            {"trip": 2, "time": "8.00 AM"},
+                            {"trip": 3, "time": "8.30 AM"},
+                            {"trip": 4, "time": "9.00 AM"},
+                            {"trip": 5, "time": "9.30 AM"},
+                            {"trip": 6, "time": "10.00 AM"},
+                            {"trip": 7, "time": "10.30 AM"},
+                            {"trip": 8, "time": "11.00 AM"},
+                            {"trip": 9, "time": "11.30 AM"},
+                            {"trip": 10, "time": "12.00 PM"},
+                            {"trip": 11, "time": "12.30 PM"},
+                            {"trip": 12, "time": "1.00 PM"},
+                            {"trip": 13, "time": "1.30 PM"},
+                            {"trip": 14, "time": "2.00 PM"},
+                            {"trip": 15, "time": "2.30 PM"},
+                            {"trip": 16, "time": "3.00 PM"},
+                            {"trip": 17, "time": "3.30 PM"},
+                            {"trip": 18, "time": "4.00 PM"},
+                            {"trip": 19, "time": "4.30 PM"},
+                            {"trip": 20, "time": "5.10 PM"},
+                            {"trip": 21, "time": "5.40 PM"},
+                            {"trip": 22, "time": "6.00 PM"},
+                            {"trip": 23, "time": "7.00 PM"},
+                            {"trip": 24, "time": "8.00 PM"},
+                            {"trip": 25, "time": "9.00 PM"},
+                            {"trip": 26, "time": "10.00 PM"}
+                        ],
+                        "stops": [
+                            {
+                                "stop_name": "UM Central", 
+                                "nearby_locations": ["He & She Coffee", "Universiti Malaya Central Library", "Faculty of Arts and Social Sciences", "Faculty of Education", "Faculty of Science", "Kompleks Perdana Siswa (KPS)"]
+                            },
+                            {
+                                "stop_name": "Keris Mas (KK3) / Bestari (KK4) / Zaba Residential College (KK7)", 
+                                "nearby_locations": []
+                            },
+                            {
+                                "stop_name": "Tun Ahmad Zaidi Residential", 
+                                "nearby_locations": ["KK10", "Kinabalu Residential College / KK8", "Faculty of Computer Science and Information Technology"]
+                            },
+                            {
+                                "stop_name": "Academy of Islamic Studies", 
+                                "nearby_locations": []
+                            },
+                            {
+                                "stop_name": "Ungku Aziz Residential (KK11)", 
+                                "nearby_locations": ["UM Arena", "Universiti Malaya Sport Center", "Universiti Malaya Swimming Pool"]
+                            },
+                            {
+                                "stop_name": "Raja Dr Nazrin Shah Residential (KK12)", 
+                                "nearby_locations": ["Dayasari Residential College (KK5)", "Department of Development & Estate Maintenance", "JPPHB", "Asia-Europe Institute"]
+                            },
+                            {
+                                "stop_name": "Tunku Abdul Rahman Residential (KK1)",
+                                "nearby_locations": ["Faculty of Law"]
+                            },
+                            {
+                                "stop_name": "Faculty of Engineering", 
+                                "nearby_locations": ["He & She Coffee", "Universiti Malaya Central Library", "Faculty of Arts and Social Sciences", "Faculty of Education", "Faculty of Science", "Kompleks Perdana Siswa (KPS)"]
+                            }
+                        ],
+                        "notes": [
+                            "Routes AB & BA will be operating per above-mentioned schedule only.",
+                            "The bus does not operate on the following days: Weekend (Saturday & Sunday)",
+                            "The bus does not operate during Friday Prayer. Time break starts from 12.30 pm—2.30 pm"
+                        ],
+                        "contact": {
+                            "phone": "03-7967 3311",
+                            "email": "kenderaanjpphb@um.edu.my"
+                        }
+                    },
+                    {
+                        "title": "SHUTTLE BUS OPERATION SCHEDULE",
+                        "department": "JABATAN PEMBANGUNAN & PENYELENGGARAAN HARTA BENDA",
+                        "university": "UNIVERSITI MALAYA",
+                        "routes": "ROUTE BA",
+                        "operating_days": "MONDAY - FRIDAY",
+                        "trips": [
+                            {"trip": 1, "time": "7.30 AM"},
+                            {"trip": 2, "time": "8.00 AM"},
+                            {"trip": 3, "time": "8.30 AM"},
+                            {"trip": 4, "time": "9.00 AM"},
+                            {"trip": 5, "time": "9.30 AM"},
+                            {"trip": 6, "time": "10.00 AM"},
+                            {"trip": 7, "time": "10.30 AM"},
+                            {"trip": 8, "time": "11.00 AM"},
+                            {"trip": 9, "time": "11.30 AM"},
+                            {"trip": 10, "time": "12.00 PM"},
+                            {"trip": 11, "time": "12.30 PM"},
+                            {"trip": 12, "time": "1.00 PM"},
+                            {"trip": 13, "time": "1.30 PM"},
+                            {"trip": 14, "time": "2.00 PM"},
+                            {"trip": 15, "time": "2.30 PM"},
+                            {"trip": 16, "time": "3.00 PM"},
+                            {"trip": 17, "time": "3.30 PM"},
+                            {"trip": 18, "time": "4.00 PM"},
+                            {"trip": 19, "time": "4.30 PM"},
+                            {"trip": 20, "time": "5.10 PM"},
+                            {"trip": 21, "time": "5.40 PM"},
+                            {"trip": 22, "time": "6.00 PM"},
+                            {"trip": 23, "time": "7.00 PM"},
+                            {"trip": 24, "time": "8.00 PM"},
+                            {"trip": 25, "time": "9.00 PM"},
+                            {"trip": 26, "time": "10.00 PM"}
+                        ],
+                        "stops": [
+                            {
+                                "stop_name": "UM Central", 
+                                "nearby_locations": ["He & She Coffee", "Universiti Malaya Central Library", "Faculty of Arts and Social Sciences", "Faculty of Education", "Faculty of Science", "Kompleks Perdana Siswa (KPS)"]
+                            },
+                            {
+                                "stop_name": "Pusat Asasi Sains", 
+                                "nearby_locations": ["Dewan Tunku Canselor"]
+                            },
+                            {
+                                "stop_name": "Dayasari Residential (KK5)", 
+                                "nearby_locations": ["Department of Development & Estate Maintenance", "Raja Dr Nazrin Shah Residential (KK12)"]
+                            },
+                            {
+                                "stop_name": "Academy of Islamic Studies", 
+                                "nearby_locations": []
+                            },
+                            {
+                                "stop_name": "Tun Ahmad Zaidi Residential （KK10)", 
+                                "nearby_locations": ["Kinabalu Residential College / KK8", "Faculty of Computer Science and Information Technology"]
+                            },
+                            {
+                                "stop_name": "Academy of Malay Studies", 
+                                "nearby_locations": []
+                            },
+                            {
+                                "stop_name": "Faculty of Engineering", 
+                                "nearby_locations": ["Tuanku Bahiyah Residential College (KK2)"]
+                            },
+                            {
+                                "stop_name": "Faculty of Science", "nearby_locations": []
+                            },
+                            {
+                                "stop_name": "UM Central", 
+                                "nearby_locations": ["He & She Coffee", "Universiti Malaya Central Library", "Faculty of Arts and Social Sciences", "Faculty of Education", "Faculty of Science", "Kompleks Perdana Siswa (KPS)"]
+                            }
+                        ],
+                        "notes": [
+                            "Routes AB & BA will be operating per above-mentioned schedule only.",
+                            "The bus does not operate on the following days: Weekend (Saturday & Sunday)",
+                            "The bus does not operate during Friday Prayer. Time break starts from 12.30 pm—2.30 pm"
+                        ],
+                        "contact": {
+                            "phone": "03-7967 3311",
+                            "email": "kenderaanjpphb@um.edu.my"
+                        }
+                    },
+                    {
+                        "title": "SHUTTLE BUS OPERATION SCHEDULE",
+                        "department": "JABATAN PEMBANGUNAN & PENYELENGGARAAN HARTA BENDA",
+                        "university": "UNIVERSITI MALAYA",
+                        "routes": "ROUTE C",
+                        "operating_days": "MONDAY - FRIDAY",
+                        "trips": [
+                            {"trip": 1, "time": "7.30 AM"},
+                            {"trip": 2, "time": "8.00 AM"},
+                            {"trip": 3, "time": "8.30 AM"},
+                            {"trip": 4, "time": "9.00 AM"},
+                            {"trip": 5, "time": "9.30 AM"},
+                            {"trip": 6, "time": "10.00 AM"},
+                            {"trip": 7, "time": "10.30 AM"},
+                            {"trip": 8, "time": "11.00 AM"},
+                            {"trip": 9, "time": "11.30 AM"},
+                            {"trip": 10, "time": "12.00 PM"},
+                            {"trip": 11, "time": "12.30 PM"},
+                            {"trip": 12, "time": "1.00 PM"},
+                            {"trip": 13, "time": "1.30 PM"},
+                            {"trip": 14, "time": "2.00 PM"},
+                            {"trip": 15, "time": "2.30 PM"},
+                            {"trip": 16, "time": "3.00 PM"},
+                            {"trip": 17, "time": "3.30 PM"},
+                            {"trip": 18, "time": "4.00 PM"},
+                            {"trip": 19, "time": "4.30 PM"},
+                            {"trip": 20, "time": "5.10 PM"},
+                            {"trip": 21, "time": "5.40 PM"},
+                            {"trip": 22, "time": "7.00 PM"},
+                            {"trip": 23, "time": "8.00 PM"},
+                            {"trip": 24, "time": "9.00 PM"},
+                            {"trip": 25, "time": "10.00 PM"}
+                        ],
+                        "stops": [
+                            {
+                                "stop_name": "UM Central",
+                                "nearby_locations": ["He & She Coffee", "Universiti Malaya Central Library", "Faculty of Arts and Social Sciences", "Faculty of Education", "Faculty of Science", "Kompleks Perdana Siswa (KPS)"]
+                            },
+                            {
+                                "stop_name": "Pusat Asasi Sains",
+                                "nearby_locations": ["Dewan Tunku Canselor"]
+                            },
+                            {
+                                "stop_name": "KTM Angkasapuri Station",
+                                "nearby_locations": []
+                            },
+                            {
+                                "stop_name": "Pantai Permai",
+                                "nearby_locations": []
+                            },
+                            {
+                                "stop_name": "Bangsar South",
+                                "nearby_locations": []
+                            },
+                            {
+                                "stop_name": "Faculty of Engineering",
+                                "nearby_locations": ["Tuanku Bahiyah Residential College (KK2)"]
+                            },
+                            {
+                                "stop_name": "UM Central",
+                                "nearby_locations": ["He & She Coffee", "Universiti Malaya Central Library", "Faculty of Arts and Social Sciences", "Faculty of Education", "Faculty of Science", "Kompleks Perdana Siswa (KPS)"]
+                            }
+                        ],
+                        "notes": [
+                            "The bus does not operate on the following days: Weekend (Saturday & Sunday)",
+                            "The bus does not operate during Friday Prayer. Time break starts from 12.30 pm—2.30 pm"
+                        ],
+                        "contact": {
+                            "phone": "03-7967 3311",
+                            "email": "kenderaanjpphb@um.edu.my"
+                        }
+                    },
+                    {
+                        "title": "SHUTTLE BUS OPERATION SCHEDULE",
+                        "department": "JABATAN PEMBANGUNAN & PENYELENGGARAAN HARTA BENDA",
+                        "university": "UNIVERSITI MALAYA",
+                        "routes": "ROUTE D",
+                        "operating_days": "MONDAY - FRIDAY",
+                        "trips": [
+                            {"trip": 1, "time": "7.30 AM"},
+                            {"trip": 2, "time": "8.00 AM"},
+                            {"trip": 3, "time": "8.30 AM"},
+                            {"trip": 4, "time": "9.00 AM"},
+                            {"trip": 5, "time": "9.30 AM"},
+                            {"trip": 6, "time": "10.00 AM"},
+                            {"trip": 7, "time": "10.30 AM"},
+                            {"trip": 8, "time": "11.00 AM"},
+                            {"trip": 9, "time": "11.30 AM"},
+                            {"trip": 10, "time": "12.00 PM"},
+                            {"trip": 11, "time": "12.30 PM"},
+                            {"trip": 12, "time": "1.00 PM"},
+                            {"trip": 13, "time": "1.30 PM"},
+                            {"trip": 14, "time": "2.00 PM"},
+                            {"trip": 15, "time": "2.30 PM"},
+                            {"trip": 16, "time": "3.00 PM"},
+                            {"trip": 17, "time": "3.30 PM"},
+                            {"trip": 18, "time": "4.00 PM"},
+                            {"trip": 19, "time": "4.30 PM"},
+                            {"trip": 20, "time": "5.10 PM"},
+                            {"trip": 21, "time": "5.40 PM"},
+                            {"trip": 22, "time": "7.00 PM"},
+                            {"trip": 23, "time": "8.00 PM"},
+                            {"trip": 24, "time": "9.00 PM"},
+                            {"trip": 25, "time": "10.00 PM"}
+                        ],
+                        "stops": [
+                            {
+                                "stop_name": "Faculty of Engineering (Corner Bus Stop to PJ Gate)",
+                                "nearby_locations": ["Faculty of Business and Economics", "UM Central", "Universiti Malaya Central Library"]
+                            },
+                            {
+                                "stop_name": "International House",
+                                "nearby_locations": []
+                            },
+                            {
+                                "stop_name": "Rapid KL Stop 1, 2, 3, 4 & 5",
+                                "nearby_locations": []
+                            },
+                            {
+                                "stop_name": "International House (Bus Stop to Jln Ilmu College)",
+                                "nearby_locations": []
+                            },
+                            {
+                                "stop_name": "13 Residential College",
+                                "nearby_locations": ["Universiti Islam Malaysia"]
+                            },
+                            {
+                                "stop_name": "UM Central",
+                                "nearby_locations": ["He & She Coffee", "Universiti Malaya Central Library", "Faculty of Arts and Social Sciences", "Faculty of Education", "Faculty of Science", "Kompleks Perdana Siswa (KPS)"]
+                            }
+                        ],
+                        "notes": [
+                            "The bus does not operate on the following days: Weekend (Saturday & Sunday)",
+                            "The bus does not operate during Friday Prayer. Time break starts from 12.30 pm—2.30 pm"
+                        ],
+                        "contact": {
+                            "phone": "03-7967 3311",
+                            "email": "kenderaanjpphb@um.edu.my"
+                        }
+                    },
+                    {
+                        "title": "SHUTTLE BUS OPERATION SCHEDULE",
+                        "department": "JABATAN PEMBANGUNAN & PENYELENGGARAAN HARTA BENDA",
+                        "university": "UNIVERSITI MALAYA",
+                        "routes": "ROUTE E",
+                        "operating_days": "MONDAY - FRIDAY",
+                        "trips": [
+                            {"trip": 1, "time": "7.30 AM"},
+                            {"trip": 2, "time": "8.00 AM"},
+                            {"trip": 3, "time": "8.30 AM"},
+                            {"trip": 4, "time": "9.00 AM"},
+                            {"trip": 5, "time": "9.30 AM"},
+                            {"trip": 6, "time": "10.00 AM"},
+                            {"trip": 7, "time": "10.30 AM"},
+                            {"trip": 8, "time": "11.00 AM"},
+                            {"trip": 9, "time": "11.30 AM"},
+                            {"trip": 10, "time": "12.00 PM"},
+                            {"trip": 11, "time": "12.30 PM"},
+                            {"trip": 12, "time": "1.00 PM"},
+                            {"trip": 13, "time": "1.30 PM"},
+                            {"trip": 14, "time": "2.00 PM"},
+                            {"trip": 15, "time": "2.30 PM"},
+                            {"trip": 16, "time": "3.00 PM"},
+                            {"trip": 17, "time": "3.30 PM"},
+                            {"trip": 18, "time": "4.00 PM"},
+                            {"trip": 19, "time": "4.30 PM"},
+                            {"trip": 20, "time": "5.10 PM"},
+                            {"trip": 21, "time": "5.40 PM"},
+                            {"trip": 22, "time": "6.00 PM"},
+                            {"trip": 23, "time": "7.00 PM"},
+                            {"trip": 24, "time": "8.00 PM"},
+                            {"trip": 25, "time": "9.00 PM"},
+                            {"trip": 26, "time": "10.00 PM"}
+                        ],
+                        "stops": [
+                            {
+                                "stop_name": "UM Central", 
+                                "nearby_locations": ["He & She Coffee", "Universiti Malaya Central Library", "Faculty of Arts and Social Sciences", "Faculty of Education", "Faculty of Science", "Kompleks Perdana Siswa (KPS)"]
+                            },
+                            {
+                                "stop_name": "Tun Syed Zahiruddin Residential College (KK9)", 
+                                "nearby_locations": []
+                            },
+                            {
+                                "stop_name": "Faculty of Science", 
+                                "nearby_locations": []
+                            }
+                        ],
+                        "notes": [
+                            "The bus does not operate on the following days: Weekend (Saturday & Sunday)",
+                            "The bus does not operate during Friday Prayer. Time break starts from 12.30 pm—2.30 pm"
+                        ],
+                        "contact": {
+                            "phone": "03-7967 3311",
+                            "email": "kenderaanjpphb@um.edu.my"
+                        }
+                    }                                                                                                                        
+                ]
+            }
+        ]
+    }
+]
