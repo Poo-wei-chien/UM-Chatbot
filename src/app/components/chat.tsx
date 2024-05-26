@@ -47,8 +47,8 @@ export function Chat() {
                     {showSuggestions && (
                         <section className="p-1 flex justify-center">
                             <div className="flex items-center">
-                                <Button className="mr-2 pt-2" onClick={() => handleSuggestionClick("How many faculties are there in UM?")} style={{whiteSpace: 'normal', paddingTop: '30px', paddingBottom: '30px', backgroundColor: 'white',  color: 'black', flex: '1' }}>
-                                    How many faculties are there in UM? ✨
+                                <Button className="mr-2 pt-2" onClick={() => handleSuggestionClick("How do I apply for a bachelor's degree at UM?")} style={{whiteSpace: 'normal', paddingTop: '30px', paddingBottom: '30px', backgroundColor: 'white',  color: 'black', flex: '1' }}>
+                                    How do I apply for a bachelor's degree at UM? ✨
                                 </Button>
                                 <Button className="mr-2" onClick={() => handleSuggestionClick("Show me all the bus routes in UM.")} style={{ whiteSpace: 'normal', paddingTop: '30px', paddingBottom: '30px', backgroundColor: 'white',  color: 'black', flex: '1' }}>
                                     Show me all the bus routes in UM. ✨
